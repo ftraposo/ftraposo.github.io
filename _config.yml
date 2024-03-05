@@ -1,6 +1,6 @@
 title: "Welcome to my website"
 author: "Felipe Torres"
-description: "University of Oxford"
+description: "London School of Economics and Political Science"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:felipe.torres@politics.ox.ac.uk"}
+  - {title: Mail, icon: envelope, url: "mailto:f.torres-raposo@lse.ac.uk"}
   - {title: Github, icon: github, url: "https://github.com/ftraposo"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
