@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-## Welcome to my website
+## Hello, welcome to my website! 
 
 I am a LSE Fellow at the Department of Government.
 
