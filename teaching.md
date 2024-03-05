@@ -4,8 +4,6 @@ permalink: "/teaching/"
 layout: page
 ---
 
-## Teaching Experience
-
 ## London School of Economics and Political Science
 
  - GV481 - Quantitative Analysis for Political Science
