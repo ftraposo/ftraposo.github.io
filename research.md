@@ -4,10 +4,6 @@ permalink: "/research/"
 layout: page
 ---
 
-## Publications
-
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
-
 ## Working papers:
 
  - Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with Raymond Duch). Unpublished paper, AER RCT Registry, Data
