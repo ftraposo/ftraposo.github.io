@@ -8,27 +8,23 @@ layout: page
 
 ## London School of Economics and Political Science
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - GV481 - Quantitative Analysis for Political Science
 
 ## University College London
 
 - [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+- Introduction to Quantitative Research Methods
 
 ## University of Oxford
+
+- Causal Inference, University of Oxford
+
+## King's College London 
+
+- Advanced topics of Development Economics
+- Development Economics
+- Intermediate Microeconomics
+- Quantitative Methods
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
