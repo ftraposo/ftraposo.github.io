@@ -4,33 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
-## Teaching Experience
+## Welcome to my website
 
-## London School of Economics and Political Science
+I am a LSE Fellow at the Department of Government.
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+Before joining LSE, I was a Postdoctoral Research Fellow at the Development Engagement Lab, based at the University College London.
 
-## University College London
+I received my PhD in Political Science from the University of Oxford, a Master’s in Economics from Queen Mary University of London, and a Master’s in Public Policy from the University of Oxford.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+My research interests include political economy of development, behavioural political economy, and indirect questioning techniques.
 
-## University of Oxford
+email:f.torres-raposo(at)lse.ac.uk
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+Please find my full CV HERE
 
 ```yaml
 remote_theme: niklasbuschmann/contrast@v2.11
@@ -79,19 +65,3 @@ plugins:
  - jekyll-feed
 
 ```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
