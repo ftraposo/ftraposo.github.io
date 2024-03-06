@@ -7,6 +7,15 @@ layout: page
 ## Working papers:
 
  - Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with Raymond Duch). Unpublished paper, AER RCT Registry, Data
+
+<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: #333;">Show/Hide Abstract</summary>
+  
+  Your abstract content goes here.
+  
+</details>
+
+ 
  - Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch). 
  - Measuring Corruption using Bayesian Randomise Item Response Model (with Ahra Wu). 
  - Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Ho, Paolo Morini)
