@@ -56,7 +56,13 @@ Public support is understood to be a condition for foreign aid spending in donor
 ## Working in progress:
 
 - Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (With Jennifer Hudson, David Hudson, Soomin Ho, Paolo Morini)
-- The Spillover Effects of Audits (Single-authored). 
+
+ <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+  
+Add Abstract
+  
+</details>
 - A Meta-Analysis on the effects of Clientelism on voters’ Behaviour (Single-authored).
 <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
@@ -65,10 +71,7 @@ Clientelism has remained a pervasive phenomenon, undermining the integrity of el
   
 </details>
 
-- Reference Point(s) Formation (Single-authored). 
-- Reference Point(s) and Belief Updating (Single-authored). 
-- Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored). 
-- The Spillover Effects of Audits
+- The Spillover Effects of Audits (Single-authored)
 <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
 
@@ -82,3 +85,7 @@ Governments across the globe have set audits as one of the primary mechanisms to
 Government audits, widely implemented to increase accountability, promote transparency, and identify patronage practices within the public sector, have been shown by early research to be an effective tool in curbing corruption. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage ‘rent-extraction’ behaviour among civil servants, and second, whether the audits have a moderated effect on civil servants with family affiliations, who may be more institutionally protected and more prone to resource misallocation. We employ a unique dataset sourced from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 20 governmental institutions over 8,640 public servants.
 
 </details>
+
+- Reference Point(s) Formation (Single-authored). 
+- Reference Point(s) and Belief Updating (Single-authored). 
+- Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored). 
