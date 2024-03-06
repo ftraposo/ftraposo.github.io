@@ -68,15 +68,14 @@ Clientelism has remained a pervasive phenomenon, undermining the integrity of el
 - Reference Point(s) Formation (Single-authored). 
 - Reference Point(s) and Belief Updating (Single-authored). 
 - Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored). 
-- The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo)
-
+- The Spillover Effects of Audits
 <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
 
 Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
 
 </details>
-
+- The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo)
 <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
 
