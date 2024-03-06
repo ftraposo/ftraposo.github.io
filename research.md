@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers:
 
- - Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with Raymond Duch). Unpublished paper, AER RCT Registry, Data
+- Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with Raymond Duch). Unpublished paper, AER RCT Registry, Data
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
@@ -15,7 +15,6 @@ layout: page
   
 </details>
 
- 
  - Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch).
 
 <details style="padding: 10px; margin-bottom: 10px;">
@@ -51,7 +50,6 @@ Public support is understood to be a condition for foreign aid spending in donor
   Your abstract content goes here.
   
 </details>
-
 
 ## Working in progress:
 
