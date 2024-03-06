@@ -21,7 +21,7 @@ layout: page
  <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
   
-  Your abstract content goes here.
+The presentation and framing of information are the foundations of many behavioural experiments. In the case of corruption, policymakers such as NGOs face the challenge of informing citizens about the levels of malfeasance found in their local constituency. This challenge implies identifying an optimal messaging strategy that is sufficiently compelling to attract the interest of citizens. We addressed this challenge by evaluating six strategies for information messages often used in corruption information experiments. Using historical data from local government audit reports in Chile and in partnership with the NGO Chile Transparente, we implemented an online adaptive experiment using a modified Thompson Sampling algorithm (Exploration sampling) in which the assignment probabilities of the information treatments were updated in 11 batches of 100 subjects each. The results showed no unique optimal information strategy for malfeasance messages. However, a loss-frame information strategy tends to be slightly more persuasive than other ways of conveying information about corruption. We also found evidence that more rudimentary information metrics of corruption can be equally persuasive compared to more sophisticated ones. Finally, we do not found significant differences between using spatial comparison (i.e. comparing corruption in a local government across local constituencies within the same region) versus a temporal comparison (i.e. comparing the same local government across time).
   
 </details>
 
