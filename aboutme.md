@@ -5,7 +5,7 @@ layout: page
 ---
 
 ![screenshot](Louisa.png)
-<sup>Credits:LSK</sup>
+<sup>Credits:LSS</sup>
 
 I am a LSE Fellow at the Department of Government.
 
