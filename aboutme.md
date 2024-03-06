@@ -4,8 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![image](Louisa.png){: style="float:left"} 
-<sup>Credits:LSS</sup>
+![image](Louisa.png)
 
 I am a LSE Fellow at the Department of Government.
 
