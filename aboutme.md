@@ -6,7 +6,7 @@ layout: page
 
 ## Hello, welcome to my website! 
 
-![](Louisa.png =250x250)
+<img src="https://github.com/favicon.ico" width="48">
 
 I am a LSE Fellow at the Department of Government.
 
