@@ -20,3 +20,8 @@ email:f.torres-raposo(at)lse.ac.uk
 
 Please find my full CV HERE
 
+## UPCOMING PRESENTATIONS: 
+
+- ADD
+- ADD
+
