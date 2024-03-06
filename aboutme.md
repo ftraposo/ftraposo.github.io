@@ -14,7 +14,7 @@ I received my PhD in Political Science from the University of Oxford, a Masterâ€
 
 My research interests include political economy of development, behavioural political economy, and indirect questioning techniques.
 
-email:f.torres-raposo(at)lse.ac.uk
+email:<f.torres-raposo(at)lse.ac.uk>
 
 Please find my full CV HERE
 
