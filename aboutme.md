@@ -3,7 +3,8 @@ title: "Hello, welcome to my website! (UNDER CONSTRUCTION!)"
 permalink: "/about/"
 layout: page
 ---
-<img style="float: right;" src="Louisa.png">
+
+![image](Louisa.png){: style="float: left"} 
 <sup>Credits:LSS</sup>
 
 I am a LSE Fellow at the Department of Government.
