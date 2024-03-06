@@ -6,7 +6,7 @@ layout: page
 
 ## Hello, welcome to my website! 
 
-![screenshot](Louisa.png)
+![](Louisa.png =250x250)
 
 I am a LSE Fellow at the Department of Government.
 
