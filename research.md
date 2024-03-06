@@ -45,8 +45,8 @@ Public support is understood to be a condition for foreign aid spending in donor
 
  - Data Unleashed: Exploring Global Perspectives from the Development Engagement Lab’s Database (With Jennifer Hudson, David Hudson, Soomin Ho, Paolo Morini)
 
-<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+<details style="padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
   
   Your abstract content goes here.
   
@@ -57,8 +57,8 @@ Public support is understood to be a condition for foreign aid spending in donor
 
 - Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (With Jennifer Hudson, David Hudson, Soomin Ho, Paolo Morini)
 
- <details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+<details style="padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
   
 Add Abstract
   
@@ -66,8 +66,8 @@ Add Abstract
 
 - A Meta-Analysis on the effects of Clientelism on voters’ Behaviour (Single-authored).
 
-<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+<details style="padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
   
 Clientelism has remained a pervasive phenomenon, undermining the integrity of elections and overall trust in the political system. Across disciplines, scholars have examined the effect of clientelism on several political and non-political outcomes. Numerous studies have provided empirical evidence on the strategic allocation of clientelistic benefits by politicians/brokers based on the type of voters they target and the type of benefits they provide. Although there is an implicit consensus on the direction of the impact of clientelism on these outcomes, there seems to be considerable heterogeneity regarding the magnitude of its impact. To be the best of my knowledge, no study has attempted to identify the pooled effect of this phenomenon across different contexts. This project will systematically identify published quantitative studies that have estimated the effects of clientelism in the last decade. Through meta-analysis, I will estimate the inverse variance-weighted average effect of clientelistic benefits on voters’ voting behaviour and their underlying beliefs about the quality of institutions. Secondly, using meta-regressions, I will explore the heterogeneity of effects of clientelism by estimating if the effects vary by the type of voters that politicians/brokers target (looking at ideological leanings, socioeconomic status, reciprocal voters, and historical ties) and the type of benefits that politicians/brokers provide (private vs excludable, different local benefits, and cash vs non-cash benefits). These analyses will help identify if there is an underlying effect of clientelism and understand what drives these effects.
   
@@ -75,8 +75,8 @@ Clientelism has remained a pervasive phenomenon, undermining the integrity of el
 
 - The Spillover Effects of Audits (Single-authored)
 
-<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+<details style="padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 
 Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
 
@@ -84,8 +84,8 @@ Governments across the globe have set audits as one of the primary mechanisms to
 
 - The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo)
 
-<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+<details style="padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 
 Government audits, widely implemented to increase accountability, promote transparency, and identify patronage practices within the public sector, have been shown by early research to be an effective tool in curbing corruption. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage ‘rent-extraction’ behaviour among civil servants, and second, whether the audits have a moderated effect on civil servants with family affiliations, who may be more institutionally protected and more prone to resource misallocation. We employ a unique dataset sourced from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 20 governmental institutions over 8,640 public servants.
 
