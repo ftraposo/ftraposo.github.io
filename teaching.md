@@ -14,13 +14,13 @@ layout: page
 
 ## University of Oxford
 
-- Causal Inference, University of Oxford, 2021 \& 2022
+- Causal Inference, University of Oxford, 2021 & 2022
 
 ## King's College London 
 
 - 6SSPP383 - Advanced Economics of Politics, 2022
 - 6YYD0016 - Advanced topics of Development Economics, 2020
-- 5SSPP217 - Intermediate Microeconomics, 2020 \& 2021
+- 5SSPP217 - Intermediate Microeconomics, 2020 & 2021
 - 6SSPP333 - Development Economics, 2019
 - 4SSPP109 - Quantitative Methods, 2019
 
