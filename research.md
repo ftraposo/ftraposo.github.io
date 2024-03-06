@@ -58,7 +58,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
   
-Add Abstract
+Political scientists have often looked at factors affecting attitudinal and behavioural indicators to study public engagement with political issues, but studies which consider the effects of each on the other are less common, due, amongst other factors, to data availability constraints. In this paper, we leverage on a novel four-year longitudinal panel study of public engagement with global poverty and sustainable development in France, Germany, Great Britain, and the United States (2019-2022) to draw connections between attitudinal and behavioural engagement in this domain. Specifically, we look at ten behavioural engagement indicators (from news consumption to volunteering, to participating in demonstrations), and attitudinal indicators capturing the public’s moral views on global poverty and development, their concern for the issue, and their world view on inequalities and global challenges. We exploit variation in time and across individuals in a cross-lagged panel model to identify causal effects of each on the other. We show that changes in a respondent’s moral views at any one time predicts changes in behavioural engagement in the following time in a series of behavioural indicators, but also that people taking actions also change their views on global poverty. We draw implications for charities, NGOs and governments engaged in efforts to involve publics in donor countries with their work to tackle poverty worldwide.
   
 </details>
 
