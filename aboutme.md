@@ -6,7 +6,7 @@ layout: page
 
 ## Hello, welcome to my website! 
 
-<img src="Louisa.png" width="160">
+<img src="Louisa.png" width="180">
 
 I am a LSE Fellow at the Department of Government.
 
