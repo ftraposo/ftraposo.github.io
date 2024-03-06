@@ -1,10 +1,8 @@
 ---
-title: "About Me"
+title: "Hello, welcome to my website! (UNDER CONSTRUCTION!)"
 permalink: "/about/"
 layout: page
 ---
-
-## Hello, welcome to my website! (UNDER CONSTRUCTION!)
 
 ![screenshot](Louisa.png)
 
