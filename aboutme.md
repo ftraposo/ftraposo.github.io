@@ -6,7 +6,7 @@ layout: page
 
 ## Hello, welcome to my website! 
 
-<img src="github.com/ftraposo/ftraposo.github.io/blob/1cadc6d1a4efb30b92e533fc512a2837c9c11104/Louisa.png" width="180">
+![screenshot](Louisa.png)
 
 I am a LSE Fellow at the Department of Government.
 
