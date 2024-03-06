@@ -8,8 +8,8 @@ layout: page
 
  - Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with Raymond Duch). Unpublished paper, AER RCT Registry, Data
 
-<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+<details style="padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
   
  We implemented a field experiment that assesses whether citizens update corruption beliefs when presented with audit information about malfeasance in their municipal government. The video treatment reports audit results for Chilean municipalities; the control is a placebo video. We measure incentivized pre-treatment and post-treatment corruption beliefs of 5,528 subjects. When informed about corruption in their municipality subjects update negatively. Updating is correlated with reported malfeasance and with trends in malfeasance.  We find limited evidence of Bayesian learning. Treatment effects persist after one-month.  We observe higher donations to local public goods by treated subjects in municipalities with more positive audits.
   
