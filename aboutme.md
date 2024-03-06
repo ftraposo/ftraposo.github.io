@@ -20,6 +20,5 @@ Please find my full CV HERE
 
 ## UPCOMING PRESENTATIONS: 
 
-- ADD
-- ADD
-
+- NoPSA 2024 XX Nordic Political Science Congress, 25-28 June, Bergen, Norway
+- ECPR General Conference, 12 – 15 August, Dublin, Ireland
