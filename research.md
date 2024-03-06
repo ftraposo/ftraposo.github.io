@@ -57,7 +57,13 @@ The presentation and framing of information are the foundations of many behaviou
 
 - Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (With Jennifer Hudson, David Hudson, Soomin Ho, Paolo Morini)
 - The Spillover Effects of Audits (Single-authored). 
-- A Meta-Analysis on the effects of Clientelism on voters’ Behaviour (Single-authored). 
+- A Meta-Analysis on the effects of Clientelism on voters’ Behaviour (Single-authored).
+<details style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
+  <summary style="cursor: pointer; font-weight: bold; color: #333;">Abstract</summary>
+  
+Clientelism has remained a pervasive phenomenon, undermining the integrity of elections and overall trust in the political system. Across disciplines, scholars have examined the effect of clientelism on several political and non-political outcomes. Numerous studies have provided empirical evidence on the strategic allocation of clientelistic benefits by politicians/brokers based on the type of voters they target and the type of benefits they provide. Although there is an implicit consensus on the direction of the impact of clientelism on these outcomes, there seems to be considerable heterogeneity regarding the magnitude of its impact. To be the best of my knowledge, no study has attempted to identify the pooled effect of this phenomenon across different contexts. This project will systematically identify published quantitative studies that have estimated the effects of clientelism in the last decade. Through meta-analysis, I will estimate the inverse variance-weighted average effect of clientelistic benefits on voters’ voting behaviour and their underlying beliefs about the quality of institutions. Secondly, using meta-regressions, I will explore the heterogeneity of effects of clientelism by estimating if the effects vary by the type of voters that politicians/brokers target (looking at ideological leanings, socioeconomic status, reciprocal voters, and historical ties) and the type of benefits that politicians/brokers provide (private vs excludable, different local benefits, and cash vs non-cash benefits). These analyses will help identify if there is an underlying effect of clientelism and understand what drives these effects.
+  
+</details>
 - Reference Point(s) Formation (Single-authored). 
 - Reference Point(s) and Belief Updating (Single-authored). 
 - Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored). 
