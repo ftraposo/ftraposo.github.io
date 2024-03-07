@@ -6,9 +6,9 @@ layout: page
 
 ![image](Louisa.png)
 
-I am a LSE Fellow at the Department of Government.
+I am a LSE Fellow at the [Department of Government]([https://developmentcompass.org](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo)).
 
-Before joining LSE, I was a Postdoctoral Research Fellow at the Development Engagement Lab, based at the University College London.
+Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Engagement Lab](https://developmentcompass.org), based at the University College London.
 
 I received my PhD in Political Science from the University of Oxford, a Master’s in Economics from Queen Mary University of London, and a Master’s in Public Policy from the University of Oxford.
 
