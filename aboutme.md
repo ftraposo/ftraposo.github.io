@@ -20,5 +20,6 @@ Please find my full CV HERE
 
 ## UPCOMING PRESENTATIONS: 
 
+- Third International Behavioural Public Policy Conference, 23-25 June, Cambridge, UK
 - NoPSA 2024 XX Nordic Political Science Congress, 25-28 June, Bergen, Norway
 - ECPR General Conference, 12 – 15 August, Dublin, Ireland
