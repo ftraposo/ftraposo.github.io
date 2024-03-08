@@ -16,7 +16,7 @@ My research interests include political economy of development, behavioural poli
 
 email:`f.torres-raposo@lse.ac.uk`
 
-Please find my full CV HERE
+Please find my full CV [HERE](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo)
 
 ## UPCOMING PRESENTATIONS: 
 
