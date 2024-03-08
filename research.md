@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers:
 
-- Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with Raymond Duch). Unpublished paper, AER RCT Registry, Data
+- Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment. (with [Raymond Duch](https://www.raymondduch.com/)). [Unpublished paper](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf), [AER RCT Registry](https://www.socialscienceregistry.org/trials/5932), [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
@@ -15,7 +15,7 @@ layout: page
   
 </details>
 
- - Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch).
+ - Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch).[AER RCT Registry](https://www.socialscienceregistry.org/trials/7233)
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
@@ -24,7 +24,7 @@ The presentation and framing of information are the foundations of many behaviou
   
 </details>
 
- - Measuring Corruption using Bayesian Randomise Item Response Model (with Ahra Wu).
+ - Measuring Corruption using Bayesian Randomise Item Response Model. (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)). 
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
