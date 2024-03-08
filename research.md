@@ -10,7 +10,7 @@ layout: page
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-  
+
  We implemented a field experiment that assesses whether citizens update corruption beliefs when presented with audit information about malfeasance in their municipal government. The video treatment reports audit results for Chilean municipalities; the control is a placebo video. We measure incentivized pre-treatment and post-treatment corruption beliefs of 5,528 subjects. When informed about corruption in their municipality subjects update negatively. Updating is correlated with reported malfeasance and with trends in malfeasance.  We find limited evidence of Bayesian learning. Treatment effects persist after one-month.  We observe higher donations to local public goods by treated subjects in municipalities with more positive audits.
   
 </details>
@@ -84,9 +84,10 @@ Governments across the globe have set audits as one of the primary mechanisms to
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-
+<sub>
 Government audits, widely implemented to increase accountability, promote transparency, and identify patronage practices within the public sector, have been shown by early research to be an effective tool in curbing corruption. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage ‘rent-extraction’ behaviour among civil servants, and second, whether the audits have a moderated effect on civil servants with family affiliations, who may be more institutionally protected and more prone to resource misallocation. We employ a unique dataset sourced from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 20 governmental institutions over 8,640 public servants.
-
+</sub>
+  
 </details>
 
 - Reference Point(s) Formation (Single-authored). 
