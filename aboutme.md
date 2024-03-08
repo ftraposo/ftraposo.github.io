@@ -1,6 +1,6 @@
 ---
 title: "Hello, welcome to my website! (UNDER CONSTRUCTION!)"
-permalink: "/about/"
+permalink: "/home/"
 layout: page
 ---
 
