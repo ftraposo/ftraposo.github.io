@@ -3,7 +3,8 @@ title: "Hello, welcome to my website! (UNDER CONSTRUCTION!)"
 permalink: "/home/"
 layout: page
 ---
-<img align="left" src="img.jpg"> and <img align="left" src="Louisa.png">
+
+<img align="left" src="Louisa.png">
 
 I am a LSE Fellow at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo).
 
