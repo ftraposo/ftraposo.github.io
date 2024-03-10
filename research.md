@@ -47,7 +47,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
   
-  Your abstract content goes here.
+  To be added soon. 
   
 </details>
 
@@ -80,7 +80,7 @@ Governments across the globe have set audits as one of the primary mechanisms to
 
 </details>
 
-- The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo)
+The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo)
 
 <details style="padding: 10px; margin-bottom: 10px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
