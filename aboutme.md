@@ -19,9 +19,7 @@ My research interests include political economy of development, behavioural poli
 email:`f.torres-raposo@lse.ac.uk`
 
 Please find my full CV [HERE](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Felipe_Raposo.pdf?rlkey=tb15r384zadgjndlvvbpv7ysg&dl=0)
-
 &nbsp;
-
 ## UPCOMING PRESENTATIONS: 
 
 - Third International Behavioural Public Policy Conference, 23-25 June, Cambridge, UK
