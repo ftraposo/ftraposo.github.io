@@ -4,7 +4,7 @@ permalink: "/home/"
 layout: page
 ---
 
-<img align="left" src="[Louisa.png](https://github.com/ftraposo/ftraposo.github.io/blob/b34762a66416f1302c6a5a9df7eaeebe4381f58e/Louisa.png)">
+<img align="left" src="/Louisa.png">
 
 I am a LSE Fellow at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo).
 
