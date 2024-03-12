@@ -6,6 +6,8 @@ layout: page
 
 <img align="left" src="/Louisa.png">
 
+<br> 
+
 I am a LSE Fellow at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo).
 
 Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Engagement Lab](https://developmentcompass.org), based at the University College London.
