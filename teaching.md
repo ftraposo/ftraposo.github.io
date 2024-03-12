@@ -14,7 +14,7 @@ layout: page
 
 ## University of Oxford
 
-- Causal Inference, University of Oxford, 2021 & 2022. Please feel free to visit the course [Website](https://ftraposo.github.io/cinference/)
+- Causal Inference, University of Oxford, 2021 & 2022.[Course Website](https://ftraposo.github.io/cinference/). 
 
 ## King's College London 
 
