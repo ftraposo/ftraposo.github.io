@@ -22,6 +22,6 @@ My full CV is [HERE](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Fel
 &nbsp;
 ## UPCOMING PRESENTATIONS: 
 
+- Workshop on Latin American Politics, 10-11 May, Oxford, UK
 - Third International Behavioural Public Policy Conference, 23-25 June, Cambridge, UK
-- NoPSA 2024 XX Nordic Political Science Congress, 25-28 June, Bergen, Norway
 - ECPR General Conference, 12 – 15 August, Dublin, Ireland
