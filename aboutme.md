@@ -22,5 +22,5 @@ My full CV is [HERE](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Fel
 &nbsp;
 ## UPCOMING PRESENTATIONS: 
 
-- Workshop on Latin American Politics, 10-11 May, Oxford, UK
+- Nuffield Latin American Comparative Politics Workshop, 10-11 May, Univeristy of Oxford, UK
 - ECPR General Conference, 12 – 15 August, Dublin, Ireland
