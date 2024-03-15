@@ -23,5 +23,4 @@ My full CV is [HERE](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Fel
 ## UPCOMING PRESENTATIONS: 
 
 - Workshop on Latin American Politics, 10-11 May, Oxford, UK
-- Third International Behavioural Public Policy Conference, 23-25 June, Cambridge, UK
 - ECPR General Conference, 12 – 15 August, Dublin, Ireland
