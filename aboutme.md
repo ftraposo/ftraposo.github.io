@@ -1,5 +1,5 @@
 ---
-title: "Hello, welcome to my website! (UNDER CONSTRUCTION!)"
+title: "Hello, welcome to my website!"
 permalink: "/home/"
 layout: page
 ---
