@@ -26,7 +26,10 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).<img src="https://img.shields.io/badge/Unpublished-paper-white" alt="Unpublished paper badge" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
+Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
+[<img src="https://img.shields.io/badge/Unpublished-paper-white" alt="Unpublished paper badge" style="vertical-align: middle;">](link_to_unpublished_paper) 
+[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](link_to_data)
+
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
