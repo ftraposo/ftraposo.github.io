@@ -17,7 +17,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch). ![Static Badge](https://img.shields.io/badge/Unpublished-paper-white) [AER RCT Registry](https://www.socialscienceregistry.org/trials/7233)
+Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
@@ -26,7 +26,8 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)). 
+Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)). ![Static Badge](https://img.shields.io/badge/Data-grey) ![Static Badge](https://img.shields.io/badge/Unpublished-paper-white) [AER RCT Registry](https://www.socialscienceregistry.org/trials/7233)
+
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
