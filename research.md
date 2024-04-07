@@ -28,7 +28,7 @@ The presentation and framing of information are the foundations of many behaviou
 
 Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
-[<img src="https://img.shields.io/badge/Unpublished-paper-white" alt="Unpublished paper badge" style="vertical-align: middle;">]([link_to_unpublished_paper](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf))) 
+[<img src="https://img.shields.io/badge/Unpublished-paper-white" alt="Unpublished paper badge" style="vertical-align: middle;">]([link_to_unpublished_paper](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf))
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">]([link_to_data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K))
 
 
