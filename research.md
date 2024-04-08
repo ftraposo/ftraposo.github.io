@@ -102,4 +102,4 @@ Government audits, widely implemented to increase accountability, promote transp
 - Reference Point(s) Formation (Single-authored). 
 - Reference Point(s) and Belief Updating (Single-authored). 
 - Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
-- The power of activation: Assessing the effect of imagery in global poverty campaigns (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
+- The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
