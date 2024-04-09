@@ -22,6 +22,6 @@ My full CV is [HERE](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Fel
 &nbsp;
 ## UPCOMING PRESENTATIONS: 
 
-- Nuffield Latin American Comparative Politics Workshop, 10-11 May, Univeristy of Oxford, UK
+- Nuffield Latin American Comparative Politics Workshop, 10-11 May, Nuffield College, University of Oxford, UK
 - Nottingham Interdisciplinary Centre for Economic and Political Research 2024 conference, 13-14 May, University of Nottingham, UK
 - ECPR General Conference, 12 – 15 August, Dublin, Ireland
