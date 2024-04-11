@@ -10,7 +10,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K)  [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/5932) 
 
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
  We implemented a field experiment that assesses whether citizens update corruption beliefs when presented with audit information about malfeasance in their municipal government. The video treatment reports audit results for Chilean municipalities; the control is a placebo video. We measure incentivized pre-treatment and post-treatment corruption beliefs of 5,528 subjects. When informed about corruption in their municipality subjects update negatively. Updating is correlated with reported malfeasance and with trends in malfeasance.  We find limited evidence of Bayesian learning. Treatment effects persist after one-month.  We observe higher donations to local public goods by treated subjects in municipalities with more positive audits.
@@ -20,7 +20,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch). [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233)
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
 The presentation and framing of information are the foundations of many behavioural experiments. In the case of corruption, policymakers such as NGOs face the challenge of informing citizens about the levels of malfeasance found in their local constituency. This challenge implies identifying an optimal messaging strategy that is sufficiently compelling to attract the interest of citizens. We addressed this challenge by evaluating six strategies for information messages often used in corruption information experiments. Using historical data from local government audit reports in Chile and in partnership with the NGO Chile Transparente, we implemented an online adaptive experiment using a modified Thompson Sampling algorithm (Exploration sampling) in which the assignment probabilities of the information treatments were updated in 11 batches of 100 subjects each. The results showed no unique optimal information strategy for malfeasance messages. However, a loss-frame information strategy tends to be slightly more persuasive than other ways of conveying information about corruption. We also found evidence that more rudimentary information metrics of corruption can be equally persuasive compared to more sophisticated ones. Finally, we do not found significant differences between using spatial comparison (i.e. comparing corruption in a local government across local constituencies within the same region) versus a temporal comparison (i.e. comparing the same local government across time).
@@ -31,7 +31,7 @@ Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu
 [<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 
 <sub>
@@ -42,7 +42,7 @@ Measuring the prevalence of corrupt behavior using surveys have been a challenge
 
 Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K)
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
 Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to better understand which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and heath programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
@@ -51,7 +51,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 
 Data Unleashed: Exploring Global Perspectives from the Development Engagement Lab’s Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub> 
   To be added soon. 
@@ -62,7 +62,7 @@ Data Unleashed: Exploring Global Perspectives from the Development Engagement La
 
 Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
 Political scientists have often looked at factors affecting attitudinal and behavioural indicators to study public engagement with political issues, but studies which consider the effects of each on the other are less common, due, amongst other factors, to data availability constraints. In this paper, we leverage on a novel four-year longitudinal panel study of public engagement with global poverty and sustainable development in France, Germany, Great Britain, and the United States (2019-2022) to draw connections between attitudinal and behavioural engagement in this domain. Specifically, we look at ten behavioural engagement indicators (from news consumption to volunteering, to participating in demonstrations), and attitudinal indicators capturing the public’s moral views on global poverty and development, their concern for the issue, and their world view on inequalities and global challenges. We exploit variation in time and across individuals in a cross-lagged panel model to identify causal effects of each on the other. We show that changes in a respondent’s moral views at any one time predicts changes in behavioural engagement in the following time in a series of behavioural indicators, but also that people taking actions also change their views on global poverty. We draw implications for charities, NGOs and governments engaged in efforts to involve publics in donor countries with their work to tackle poverty worldwide.
