@@ -102,4 +102,4 @@ Governments have widely implemented audits to curb corruption,  increase account
 - Reference Point(s) Formation (Single-authored). 
 - Reference Point(s) and Belief Updating (Single-authored). 
 - Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
-- The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
+- The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint. (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
