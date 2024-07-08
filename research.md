@@ -60,6 +60,16 @@ Data Unleashed: Exploring Global Perspectives from the Development Engagement La
 
 ## Working in progress:
 
+The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint. (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
+
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+This project seeks to understand how the images development organisations use in campaigns and communications affect public engagement, and specifically, donations and information seeking behaviours. In our design we study the way individuals respond to these images by studying their emotional response, and senses of efficacy and urgency. We then study the effect of these responses on their choices to donate or seek more information about the people in the image. 
+</sub>
+  
+</details>
+
 Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
@@ -99,7 +109,5 @@ Governments have widely implemented audits to curb corruption,  increase account
   
 </details>
 
-- Reference Point(s) Formation (Single-authored). 
 - Reference Point(s) and Belief Updating (Single-authored). 
 - Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
-- The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint. (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
