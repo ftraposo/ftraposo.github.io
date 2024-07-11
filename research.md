@@ -54,7 +54,7 @@ Data Unleashed: Exploring Global Perspectives from the Development Engagement La
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub> 
-  To be added soon. 
+Public support is crucial for shaping effective development aid policies. The Development Engagement Lab (DEL) has conducted comprehensive surveys in France, Germany, Great Britain, and the U.S. to track and analyse public attitudes towards aid and support for developing countries. This paper presents multiple datasets curated by DEL, capturing nuanced shifts in public opinion and behaviour over time alongside underlying mechanisms explaining these attitudes and actions. We anticipate that DEL's data will provide valuable insights for scholars and policymakers researching global poverty and development.
 </sub> 
 </details>
 
