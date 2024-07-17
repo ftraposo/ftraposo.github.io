@@ -8,7 +8,7 @@ layout: page
 
 <br> 
 
-I am a Postdoctoral Fellow in Quantitative Methods at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo).
+I am a Postdoctoral Fellow in Quantitative Methods at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo) at the London School of Economics and Political Science.
 
 Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Engagement Lab](https://developmentcompass.org), based at the University College London.
 
