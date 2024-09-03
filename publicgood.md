@@ -15,7 +15,7 @@ Inspired on Jennifer's Doleac. I put together a Database of Polisci and Econ jou
 
 If you would like me to add your published/unplublished paper, please fill out the form below:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1Erf2ql-jXfvQhsjt3Wwn7uxhehd7/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1Erf2ql-jXfvQhsjt3Wwn7uxhehd7/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
 ## Machine Learning
 
