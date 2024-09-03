@@ -49,7 +49,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 </sub> 
 </details>
 
-Data Unleashed: Exploring Global Perspectives from the Development Engagement Lab’s Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
+Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
