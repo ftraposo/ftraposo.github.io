@@ -43,7 +43,10 @@ Measuring the prevalence of corrupt behavior using surveys have been a challenge
   
 </details>
 
-Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) [![Cite](https://img.shields.io/badge/Cite-%23f8eb47.svg)](https://github.com/ftraposo/ftraposo.github.io/blob/master/aidconjoint.bib)
+Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">]<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K">
+  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
+</a>
+
 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
