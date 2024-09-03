@@ -1,5 +1,5 @@
 ---
-title: "software"
+title: "Software"
 permalink: "/software/"
 layout: page
 ---
