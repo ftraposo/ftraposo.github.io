@@ -6,6 +6,8 @@ layout: page
 
 ## Literature reviews: 
 
+Inspired on Jennifer's Doleac. I put together a Database of Polisci and Econ journals: 
+
  - On Corruption and Accountability
  - On Patronage:
  - On Clientelism:
