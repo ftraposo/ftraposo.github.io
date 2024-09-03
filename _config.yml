@@ -19,8 +19,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "aboutme.md", title: "About me", icon: address-card}
   - {file: "research.md", title: "Research", icon: book}
   - {file: "teaching.md", title: "Teaching", icon: chalkboard}
-  - {file: "software.md", title: "Software", icon: laptop}
-  - {file: "publicgood.md", title: "Public goods", icon: fa-book-open}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Email, icon: envelope, url: "mailto:f.torres-raposo@lse.ac.uk"}
