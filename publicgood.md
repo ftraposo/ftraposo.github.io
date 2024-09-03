@@ -1,5 +1,5 @@
 ---
-title: "Public goods"
+title: "publicgood"
 permalink: "/publicgood/"
 layout: page
 ---
