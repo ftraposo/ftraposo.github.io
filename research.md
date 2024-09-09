@@ -114,5 +114,11 @@ Governments have widely implemented audits to curb corruption,  increase account
   
 </details>
 
-- Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
+Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+To be added soon :)
+  
+</details>
 
