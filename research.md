@@ -114,5 +114,5 @@ Governments have widely implemented audits to curb corruption,  increase account
   
 </details>
 
-- Reference Point(s) and Belief Updating (Single-authored). 
 - Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
+
