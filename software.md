@@ -11,3 +11,5 @@ layout: page
 - AdaptiveInf: A package that helps designing and analysing data from adaptive experiments (In progress).
 
 ## Python Packages
+
+- DELdata: A Python data package that contains panel, repeated cross-sectional and cross-country data on foreign aid and development issues. 
