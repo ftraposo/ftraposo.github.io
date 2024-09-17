@@ -8,10 +8,10 @@ layout: page
 
 Inspired on Jennifer's Doleac. I put together a Database of Polisci and Econ journals: 
 
- - On Corruption and Accountability
+ - On Corruption and Accountability:
  - On Patronage:
  - On Clientelism:
- - On Vote buying
+ - On Vote buying: 
 
 If you would like me to add your published/unplublished paper, please fill out this [Please fill out our form](https://docs.google.com/forms/d/e/1FAIpQLSd1Erf2ql-jXfvQhsjt3Wwn7uxhehd7/viewform?embedded=true). 
 
