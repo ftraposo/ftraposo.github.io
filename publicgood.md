@@ -15,18 +15,15 @@ Inspired on Jennifer's Doleac. I put together a Database of Polisci and Econ jou
 
 If you would like me to add your published/unplublished paper, please fill out this [Please fill out our form](https://docs.google.com/forms/d/e/1FAIpQLSd1Erf2ql-jXfvQhsjt3Wwn7uxhehd7/viewform?embedded=true). 
 
-## Machine Learning
+## Topics on Machine Learning
 
 - In this book, I explore some of the things I've done using Machine Learning: 
 
-## FAQ on Statistics
+## Causal Inference (Using R and Python)
 
-- In this Bookdown, I elaborate on some of the frequent questions students have asked in quantitive and causal inference courses: 
+- In this Quarto Book, I elaborate on some of the frequent questions students have asked in quantitive and causal inference courses: 
 
-## Topics that I am curious
+## Quantitative Methods for the Curious Mind
 
-- In this website, I explored a number of issues that I came across my research:
+- In this website, I explore a number of topics, focused in the forma
 
-## Transition from R to Python
-
-- I drafted some notes some how to transition from R to Python based on my own experience. 
