@@ -13,13 +13,10 @@ If you would like me to add your published/unpublished paper, [please fill out o
 
 ## Topics on Machine Learning
 
-- In this book, I explore some of the things I've done using Machine Learning: 
+- In this book, I explore some of the things I've done using Machine Learning: <a href="https://ftraposo.github.io/causal_inference/" target="_blank">Link Here</a>. 
 
 ## Causal Inference (Using R and and I will include Python code soon)
 
-- In this Quarto Book, there is access to the causal inference course I taught at the University of Oxford: <a href="https://ftraposo.github.io/causal_inference/" target="_blank">Link Here</a>. 
+- In this Quarto Book, you can have access to the causal inference course I taught at the University of Oxford: <a href="https://ftraposo.github.io/causal_inference/" target="_blank">Link Here</a>. 
 
-## Quantitative Methods for the Curious Mind
-
-- In this website, I explore a number of topics, focused in the forma
 
