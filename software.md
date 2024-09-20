@@ -13,4 +13,4 @@ layout: page
 
 ## Python Packages
 
-- DELdata: A Python data package that contains panel, repeated cross-sectional and cross-country data on foreign aid and development issues. 
+- This Python package is the equivalent of the DELdata's R package (In progress). 
