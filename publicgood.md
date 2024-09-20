@@ -13,7 +13,7 @@ If you would like me to add your published/unpublished paper, [please fill out o
 
 ## Topics on Machine Learning
 
-- In this book, I explore some of the things I've done using Machine Learning: <a href="https://ftraposo.github.io/causal_inference/" target="_blank">Link Here</a>. 
+- In this Quarto book, I explore some of the things I've used Machine Learning in my research: <a href="https://ftraposo.github.io/causal_inference/" target="_blank">Link Here</a>. 
 
 ## Causal Inference (Using R and and I will include Python code soon)
 
