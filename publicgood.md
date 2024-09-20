@@ -6,7 +6,7 @@ layout: page
 
 ## Literature reviews: 
 
-Inspired on Jennifer's Doleac. I put together a Database of papers on Corruption and Accountability, Patronage, Clientelism, and Vote Buying published in top Polisci and Econ journals: <a href="https://docs.google.com/spreadsheets/d/1h9npHc_DpDj_BXzOvZhNH_LI0zJQXVyR/edit?usp=share_link&ouid=105095887186157613323&rtpof=true&sd=true" target="_blank">Here</a>
+Inspired on <a href="https://jenniferdoleac.com/resources/" target="_blank">Jennifer Doleac's database on crime papers</a>,I put together a Database of papers on Corruption and Accountability, Patronage, Clientelism, and Vote Buying published in top Polisci and Econ journals: <a href="https://docs.google.com/spreadsheets/d/1h9npHc_DpDj_BXzOvZhNH_LI0zJQXVyR/edit?usp=share_link&ouid=105095887186157613323&rtpof=true&sd=true" target="_blank">Here</a>
 
 
 If you would like me to add your published/unplublished paper, please fill out this [Please fill out our form](https://docs.google.com/forms/d/e/1FAIpQLSd1Erf2ql-jXfvQhsjt3Wwn7uxhehd7/viewform?embedded=true). 
