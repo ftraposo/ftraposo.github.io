@@ -6,30 +6,18 @@ layout: page
 
 ## Working papers:
 
-Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment <style>
-  a {
-    text-decoration: none; /* Remove underline */
-    border: none; /* Remove border */
-    outline: none; /* Remove outline */
-  }
-
-  img {
-    vertical-align: middle; /* Align images in the middle */
-  }
-</style>
-
-(with [Raymond Duch](https://www.raymondduch.com/)). 
-<a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf">
-  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge">
+Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). 
+<a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>
-<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K">
-  <img src="https://img.shields.io/badge/Data-navy" alt="Data badge">
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
 </a>
-<a href="https://www.socialscienceregistry.org/trials/5932">
-  <img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" alt="AER RCT Registry badge">
+<a href="https://www.socialscienceregistry.org/trials/5932" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" alt="AER RCT Registry badge" style="vertical-align: middle;">
 </a>
-<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption.bib" download="Corruption.bib">
-  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge">
+<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption.bib" download="Corruption.bib" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
 </a>
 
 
