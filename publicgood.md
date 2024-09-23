@@ -9,7 +9,7 @@ layout: page
 Inspired on <a href="https://jenniferdoleac.com/resources/" target="_blank">Jennifer Doleac's database on crime papers</a>, I put together a database of papers on Corruption and Accountability, Patronage, Clientelism, and Vote Buying published in top Polisci and Econ journals: <a href="https://docs.google.com/spreadsheets/d/1h9npHc_DpDj_BXzOvZhNH_LI0zJQXVyR/edit?usp=share_link&ouid=105095887186157613323&rtpof=true&sd=true" target="_blank">Here</a>
 
 
-If you would like me to add your published/unpublished paper, [please fill out our form](https://forms.gle/7AULLRGdx13ngp678)
+If you would like me to add your published/unpublished paper, <a href="https://forms.gle/7AULLRGdx13ngp678" target="_blank">please fill out our form</a>
 
 ## Causal Inference (Using R and and I will include Python code soon)
 
