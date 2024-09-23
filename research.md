@@ -21,7 +21,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch). [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a>[<img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">](https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav)</a>
+Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch). [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) [<img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">](https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
