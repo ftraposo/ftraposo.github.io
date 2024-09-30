@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers:
 
-Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). 
+Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). **Under Review**
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>
@@ -69,7 +69,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 
 Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) <a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
   <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
-</a>
+</a> **Submitted**
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
