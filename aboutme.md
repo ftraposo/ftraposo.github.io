@@ -14,7 +14,7 @@ Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Eng
 
 I received my PhD in Political Science from the University of Oxford, a Master’s in Economics from Queen Mary University of London, and a Master’s in Public Policy from the University of Oxford.
 
-My research interests are in political economy, indirect questioning techniques, and political economy of development.
+My research interests are in political economy, indirect questioning techniques, and adaptive experimentation. 
 
 email:`f.torres-raposo@lse.ac.uk`
 
