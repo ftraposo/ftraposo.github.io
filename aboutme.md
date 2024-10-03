@@ -14,12 +14,11 @@ Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Eng
 
 I received my PhD in Political Science from the University of Oxford, a Master’s in Economics from Queen Mary University of London, and a Master’s in Public Policy from the University of Oxford.
 
-My research interests political economy, adaptive experimentation, and the political economy of development.
+My research interests are in political economy, indirect questioning techniques, and political economy of development.
 
 email:`f.torres-raposo@lse.ac.uk`
 
 My full CV is [HERE](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Felipe_Raposo.pdf?rlkey=tb15r384zadgjndlvvbpv7ysg&dl=0)
 &nbsp;
-## UPCOMING PRESENTATIONS: 
 
-- ECPR General Conference, 12 – 15 August, Dublin, Ireland
+
