@@ -98,6 +98,35 @@ Public support is crucial for shaping effective development aid policies. The De
 
 ## Working in progress:
 
+A Meta-Analysis on the effects of Patronage on Public Institutions's Performance (Single-authored).
+
+<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+Patronage remains a widespread phenomenon that shapes the functioning of political systems and influences governance outcomes. Scholars across disciplines have explored the impact of patronage on various organisational, institutional, and individual outcomes, highlighting how patronage affects performance, efficiency, and public trust. Numerous studies provide empirical evidence on the strategic allocation of patronage benefits by officials and brokers based on the characteristics of beneficiaries, such as loyalty and social connections, and the nature of benefits provided. While there is some agreement on the general direction of patronage’s impact on these outcomes, there remains significant variation in the size and scope of these effects across contexts. To the best of my knowledge, no study has yet undertaken a systematic assessment of the pooled impact of patronage. This project aims to systematically identify and analyse published quantitative studies on the effects of patronage over the past decade. Through meta-analysis, I estimate the inverse variance-weighted average effect of patronage on organisational performance, institutional efficacy, and public perceptions of institutional integrity. Furthermore, using meta-regression, I investigate the heterogeneity of these effects by examining how outcomes differ based on beneficiary characteristics (e.g., loyalty, socioeconomic status, historical connections) and types of benefits (e.g., material resources, career positions, or preferential treatment). This analysis helps clarify the extent and variability of patronage’s impact on governance and identify the factors that drive these effects.
+</sub>
+  
+</details>
+
+Deferring Public Procurement Favouritism (Single-authored).
+
+<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+To be added
+</sub>
+  
+</details>
+
+The Spillover Effects of Audits (Single-authored). 
+
+<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
+</sub>
+</details>
+
 The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint. (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
@@ -117,26 +146,6 @@ Political scientists have often looked at factors affecting attitudinal and beha
 </sub>
   
 </details>
-
-A Meta-Analysis on the effects of Clientelism on voters’ Behaviour (Single-authored).
-
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-Patronage remains a widespread phenomenon that shapes the functioning of political systems and influences governance outcomes. Scholars across disciplines have explored the impact of patronage on various organisational, institutional, and individual outcomes, highlighting how patronage affects performance, efficiency, and public trust. Numerous studies provide empirical evidence on the strategic allocation of patronage benefits by officials and brokers based on the characteristics of beneficiaries, such as loyalty and social connections, and the nature of benefits provided. While there is some agreement on the general direction of patronage’s impact on these outcomes, there remains significant variation in the size and scope of these effects across contexts. To the best of my knowledge, no study has yet undertaken a systematic assessment of the pooled impact of patronage. This project aims to systematically identify and analyse published quantitative studies on the effects of patronage over the past decade. Through meta-analysis, I estimate the inverse variance-weighted average effect of patronage on organisational performance, institutional efficacy, and public perceptions of institutional integrity. Furthermore, using meta-regression, I investigate the heterogeneity of these effects by examining how outcomes differ based on beneficiary characteristics (e.g., loyalty, socioeconomic status, historical connections) and types of benefits (e.g., material resources, career positions, or preferential treatment). This analysis helps clarify the extent and variability of patronage’s impact on governance and identify the factors that drive these effects.
-</sub>
-  
-</details>
-
-The Spillover Effects of Audits (Single-authored). 
-
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
-</sub>
-</details>
-
 
 Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
