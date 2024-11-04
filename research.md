@@ -88,7 +88,7 @@ Public support is crucial for shaping effective development aid policies. The De
 
 ## Working in progress:
 
-A Meta-Analysis on the effects of Patronage on Public Institutions's Performance (Single-authored).
+A Meta-Analysis of the Effects of Patronage on Public Institutional Performance (Single-authored).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
