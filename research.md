@@ -56,6 +56,8 @@ Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu
 The political and economic consequences of corruption are substantial. Corruption can lead to a reduction in the provision of public goods and undermine trust in democratic institutions. Scholars have been trying to reliably measure the prevalence of corruption behaviors in the population using surveys using direct question format type-of-questions. However, these measures are likely biased due to social desirability and non-response biases. Indirect questioning survey techniques have been designed to minimize these biases and elicit truthful answers to sensitive topics and behavior. However, the canonical design of these techniques only allow the measurement of group-level estimates. This paper provides empirical evidence of an extension of the Randomized Response Technique called the Randomized Item Count Response Technique (RIRT)  to estimate both group- and individual corrupt behaviors (n = 6058 and n = 3692). At the group level, we found prevalence rates from 60\% in the case of patronage to 1\% in administrative corruption. For individual-level estimates, we found that the distribution of respondents' underlying traits for engaging in corrupt behavior follows a power-law distribution. We implemented several approaches to identify inattentive study participants, showing that our results are robust once we exclude these respondents. 
 </sub>
 
+</details>
+
 The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
@@ -64,9 +66,6 @@ The Impact of Government Audits on Curbing Corruption Among Civil Servants (with
 Governments have widely implemented audits to curb corruption,  increase accountability,  and discourage patronage practices within the public sector. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage 'rent-extraction' behaviour among civil servants, and second, whether the audits have a differentiated effect on civil servants with family affiliations. We employ a unique dataset from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 17 governmental institutions over 8,640 public servants. Our preliminary analysis suggests that audits discourage public officials from engaging in rent extraction, but this impact is small and insignificant. We find some suggestive evidence that bureaucrats offset this drop in rent extraction by either extracting rent from other sources of government activities or by increasing the amount involved in current ones. 
 </sub>
   
-</details>
-
-
 </details>
 
 Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Under Review** 
