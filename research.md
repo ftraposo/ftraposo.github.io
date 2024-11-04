@@ -58,7 +58,7 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 </details>
 
-The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo). 
+Do Government Audits Reduce Bureaucrats' Rent Extraction? (with Luis Soto Tamayo). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
