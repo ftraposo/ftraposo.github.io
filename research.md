@@ -55,7 +55,18 @@ Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu
 <sub>
 The political and economic consequences of corruption are substantial. Corruption can lead to a reduction in the provision of public goods and undermine trust in democratic institutions. Scholars have been trying to reliably measure the prevalence of corruption behaviors in the population using surveys using direct question format type-of-questions. However, these measures are likely biased due to social desirability and non-response biases. Indirect questioning survey techniques have been designed to minimize these biases and elicit truthful answers to sensitive topics and behavior. However, the canonical design of these techniques only allow the measurement of group-level estimates. This paper provides empirical evidence of an extension of the Randomized Response Technique called the Randomized Item Count Response Technique (RIRT)  to estimate both group- and individual corrupt behaviors (n = 6058 and n = 3692). At the group level, we found prevalence rates from 60\% in the case of patronage to 1\% in administrative corruption. For individual-level estimates, we found that the distribution of respondents' underlying traits for engaging in corrupt behavior follows a power-law distribution. We implemented several approaches to identify inattentive study participants, showing that our results are robust once we exclude these respondents. 
 </sub>
+
+The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo). 
+
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+Governments have widely implemented audits to curb corruption,  increase accountability,  and discourage patronage practices within the public sector. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage 'rent-extraction' behaviour among civil servants, and second, whether the audits have a differentiated effect on civil servants with family affiliations. We employ a unique dataset from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 17 governmental institutions over 8,640 public servants. Our preliminary analysis suggests that audits discourage public officials from engaging in rent extraction, but this impact is small and insignificant. We find some suggestive evidence that bureaucrats offset this drop in rent extraction by either extracting rent from other sources of government activities or by increasing the amount involved in current ones. 
+</sub>
   
+</details>
+
+
 </details>
 
 Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
@@ -67,7 +78,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 </sub> 
 </details>
 
-Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Submitted** 
+Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Under Review** 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
@@ -112,7 +123,7 @@ A Meta-Analysis on the effects of Clientelism on voters’ Behaviour (Single-aut
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
-Clientelism has remained a pervasive phenomenon, undermining the integrity of elections and overall trust in the political system. Across disciplines, scholars have examined the effect of clientelism on several political and non-political outcomes. Numerous studies have provided empirical evidence on the strategic allocation of clientelistic benefits by politicians/brokers based on the type of voters they target and the type of benefits they provide. Although there is an implicit consensus on the direction of the impact of clientelism on these outcomes, there seems to be considerable heterogeneity regarding the magnitude of its impact. To be the best of my knowledge, no study has attempted to identify the pooled effect of this phenomenon across different contexts. This project will systematically identify published quantitative studies that have estimated the effects of clientelism in the last decade. Through meta-analysis, I will estimate the inverse variance-weighted average effect of clientelistic benefits on voters’ voting behaviour and their underlying beliefs about the quality of institutions. Secondly, using meta-regressions, I will explore the heterogeneity of effects of clientelism by estimating if the effects vary by the type of voters that politicians/brokers target (looking at ideological leanings, socioeconomic status, reciprocal voters, and historical ties) and the type of benefits that politicians/brokers provide (private vs excludable, different local benefits, and cash vs non-cash benefits). These analyses will help identify if there is an underlying effect of clientelism and understand what drives these effects.
+Patronage remains a widespread phenomenon that shapes the functioning of political systems and influences governance outcomes. Scholars across disciplines have explored the impact of patronage on various organisational, institutional, and individual outcomes, highlighting how patronage affects performance, efficiency, and public trust. Numerous studies provide empirical evidence on the strategic allocation of patronage benefits by officials and brokers based on the characteristics of beneficiaries, such as loyalty and social connections, and the nature of benefits provided. While there is some agreement on the general direction of patronage’s impact on these outcomes, there remains significant variation in the size and scope of these effects across contexts. To the best of my knowledge, no study has yet undertaken a systematic assessment of the pooled impact of patronage. This project aims to systematically identify and analyse published quantitative studies on the effects of patronage over the past decade. Through meta-analysis, I estimate the inverse variance-weighted average effect of patronage on organisational performance, institutional efficacy, and public perceptions of institutional integrity. Furthermore, using meta-regression, I investigate the heterogeneity of these effects by examining how outcomes differ based on beneficiary characteristics (e.g., loyalty, socioeconomic status, historical connections) and types of benefits (e.g., material resources, career positions, or preferential treatment). This analysis helps clarify the extent and variability of patronage’s impact on governance and identify the factors that drive these effects.
 </sub>
   
 </details>
@@ -126,15 +137,6 @@ Governments across the globe have set audits as one of the primary mechanisms to
 </sub>
 </details>
 
-The Impact of Government Audits on Curbing Corruption Among Civil Servants (with Luis Soto Tamayo). 
-
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-Governments have widely implemented audits to curb corruption,  increase accountability,  and discourage patronage practices within the public sector. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage 'rent-extraction' behaviour among civil servants, and second, whether the audits have a differentiated effect on civil servants with family affiliations. We employ a unique dataset from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 17 governmental institutions over 8,640 public servants. Our preliminary analysis suggests that audits discourage public officials from engaging in rent extraction, but this impact is small and insignificant. We find some suggestive evidence that bureaucrats offset this drop in rent extraction by either extracting rent from other sources of government activities or by increasing the amount involved in current ones. 
-</sub>
-  
-</details>
 
 Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
