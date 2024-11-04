@@ -69,15 +69,6 @@ Governments have widely implemented audits to curb corruption,  increase account
 
 </details>
 
-Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
-
-<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to better understand which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and heath programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
-</sub> 
-</details>
-
 Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Under Review** 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
@@ -125,6 +116,15 @@ The Spillover Effects of Audits (Single-authored).
 <sub>
 Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
 </sub>
+</details>
+
+Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
+
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
+<sub>
+Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to better understand which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and heath programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
+</sub> 
 </details>
 
 The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint. (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
