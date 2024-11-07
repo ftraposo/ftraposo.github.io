@@ -98,7 +98,7 @@ Patronage remains a widespread phenomenon that shapes the functioning of politic
   
 </details>
 
-Deferring Public Procurement Favouritism (Single-authored).
+Deterring Public Procurement Favouritism: Evidence from a Natural Experiment (Single-authored).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
