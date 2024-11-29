@@ -131,7 +131,7 @@ Political scientists have often looked at factors affecting attitudinal and beha
   
 </details>
 
-### Methods:
+### Methods:
 
 Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
