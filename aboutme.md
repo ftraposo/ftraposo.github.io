@@ -14,9 +14,9 @@ Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Eng
 
 I received my PhD in Political Science from the University of Oxford, a Master’s in Economics from Queen Mary University of London, and a Master’s in Public Policy from the University of Oxford.
 
-My research interests are in corruption, patronage, political economy of foreign aid, and adaptive experimentation. 
+My research interests are in corruption, patronage, political economy of foreign aid, adaptive experimentation, and survey methods for sensitive questions. 
 
-email:`f.torres-raposo@lse.ac.uk`
+You can reach me via email:`f.torres-raposo@lse.ac.uk`
 
 [My full CV](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Felipe_Raposo.pdf?rlkey=tb15r384zadgjndlvvbpv7ysg&dl=0) 
 
