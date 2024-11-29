@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers 
 
-### Political Economy:
+### Political Economy: Corruption and Patronage
 
 Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). **Under Review**
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
@@ -81,7 +81,7 @@ Governments across the globe have set audits as one of the primary mechanisms to
 </sub>
 </details>
 
-### Political Economy of Development: 
+### Political Economy of Foreign Aid: 
 
 Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Under Review** 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
