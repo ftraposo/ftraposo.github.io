@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers 
 
-### Political Economy: Corruption and Patronage
+## Working papers in Corruption and Patronage
 
 Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). **Under Review**
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
@@ -81,7 +81,7 @@ Governments across the globe have set audits as one of the primary mechanisms to
 </sub>
 </details>
 
-### Political Economy of Foreign Aid: 
+## Working papers in Political Economy of Foreign Aid: 
 
 Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Under Review** 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
@@ -131,7 +131,7 @@ Political scientists have often looked at factors affecting attitudinal and beha
   
 </details>
 
-### Methods:
+## Working papers in Methods: 
 
 Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
