@@ -10,8 +10,6 @@ layout: page
 
 I am a Postdoctoral Fellow in Quantitative Methods at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo) at the London School of Economics and Political Science.
 
-Before joining LSE, I was a Postdoctoral Research Fellow at the [Development Engagement Lab](https://developmentcompass.org) at the University College London.
-
 I received my PhD in Political Science from the University of Oxford, a Master’s in Economics from Queen Mary University of London, and a Master’s in Public Policy from the University of Oxford.
 
 My research interests are in corruption, patronage, political economy of foreign aid, adaptive experimentation, and survey methods for sensitive questions. 
