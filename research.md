@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers 
 
-Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)). ___Under Review___
+Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)). ___Under Review.___
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>
@@ -28,7 +28,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Exploring Global Perspectives from the Development Engagement Lab's Database (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature___ 
+Exploring Global Perspectives from the Development Engagement Lab's Database (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature.___ 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
@@ -46,7 +46,7 @@ Public support is crucial for shaping effective development aid policies. The De
 </sub> 
 </details>
 
-Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (With Raymond Duch). 
+Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). 
 [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
     <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
 </a>
@@ -98,7 +98,7 @@ Governments across the globe have set audits as one of the primary mechanisms to
 </details>
 
 
-Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
+Explaining Public Support for Foreign Aid Projects: Evidence from France, Germany, Great Britain and the United States (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
@@ -107,7 +107,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 </sub> 
 </details>
 
-The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint. (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
+The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
@@ -117,7 +117,7 @@ This project seeks to understand how the images development organisations use in
   
 </details>
 
-Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).
+Deeds and Words: Linking Attitudes and Actions on Global Poverty and Development (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
