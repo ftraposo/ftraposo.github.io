@@ -6,7 +6,7 @@ layout: page
 
 ## Working papers 
 
-Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). **Under Review**
+Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment(with [Raymond Duch](https://www.raymondduch.com/)). ___Under Review___
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>
@@ -28,7 +28,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Exploring Global Perspectives from the Development Engagement Lab's Database (With Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Conditional Acepted at Nature** 
+Exploring Global Perspectives from the Development Engagement Lab's Database (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini) **Conditional Acepted at** ___Nature___ 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
