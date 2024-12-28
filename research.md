@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-## Working papers 
+## Published/Forthcoming
 
 Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)). ___Under Review.___
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
@@ -45,6 +45,8 @@ Exploring Global Perspectives from the Development Engagement Lab's Database (wi
 Public support is crucial for shaping effective development aid policies. The Development Engagement Lab (DEL) has conducted comprehensive surveys in France, Germany, Great Britain, and the U.S. between 2019 and 2024 to track and analyse the evolving profile of public attitudes, perceptions and behaviours around global poverty and inequalities, development aid, and the challenges facing the world. This paper presents multiple datasets curated by DEL in all four countries, including longitudinal panels (2019-2023), additional repeated cross-sectional tracking surveys (2019-2024), and a collection of subject-specific data surveys (2019-2023). To facilitate the access and dissemination of the DEL data, we present a new R package, \textit{DELdata}, which allows easy access to all datasets. This comprehensive release will enable researchers and students of public engagement and attitudes towards global development, poverty, and aid to generate new research advancing our knowledge of public opinion and political engagement in this field.
 </sub> 
 </details>
+
+## Working papers
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). 
 [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
