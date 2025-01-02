@@ -1,1 +1,7 @@
-# London Early Career Workshop in Political Science and Political Economy
+---
+title: "Workshop"
+permalink: "/Workshop/"
+layout: page
+---
+
+## London School of Economics and Political Science
