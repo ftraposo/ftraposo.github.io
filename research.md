@@ -28,7 +28,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Exploring Global Perspectives from the Development Engagement Lab's Database (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature.___ 
+Exploring Global Perspectives from the Development Engagement Lab's Database (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature - Scientific Data.___ 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
