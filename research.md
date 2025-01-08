@@ -89,59 +89,53 @@ Explaining Public Support for Foreign Aid Projects: Evidence from France, German
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
-Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to better understand which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and heath programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
+Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
 </sub> 
 </details>
 
-
 ## Working in progress 
 
-The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
+The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [![EGAP Registry](https://img.shields.io/badge/EGAP_Registry-crimson)](https://osf.io/dg245) 
 
-<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-This project seeks to understand how the image development organisations use in campaigns and communications affect public engagement, specifically donations and information-seeking behaviours. In our design, we study how individuals respond to these images by analysing their emotional responses and their senses of efficacy and urgency. We then study the effect of these responses on their choices to donate or seek more information about the people in the image. 
-</sub>
-  
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+  <sub>
+    This project seeks to understand how the image development organisations use in campaigns and communications affect public engagement, specifically donations and information-seeking behaviours. In our design, we study how individuals respond to these images by analysing their emotional responses and their senses of efficacy and urgency. We then study the effect of these responses on their choices to donate or seek more information about the people in the image.
+  </sub>
 </details>
 
 A Meta-Analysis of the Effects of Patronage on Public Institutional Performance (Single-authored).
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-Patronage remains a widespread phenomenon that shapes the functioning of political systems and influences governance outcomes. Scholars across disciplines have explored the impact of patronage on various organisational, institutional, and individual outcomes, highlighting how patronage affects performance, efficiency, and public trust. Numerous studies provide empirical evidence on the strategic allocation of patronage benefits by officials and brokers based on the characteristics of beneficiaries, such as loyalty and social connections, and the nature of benefits provided. While there is some agreement on the general direction of patronage’s impact on these outcomes, there remains significant variation in the size and scope of these effects across contexts. To the best of my knowledge, no study has yet undertaken a systematic assessment of the pooled impact of patronage. This project aims to systematically identify and analyse published quantitative studies on the effects of patronage over the past decade. Through meta-analysis, I estimate the inverse variance-weighted average effect of patronage on organisational performance, institutional efficacy, and public perceptions of institutional integrity. Furthermore, using meta-regression, I investigate the heterogeneity of these effects by examining how outcomes differ based on beneficiary characteristics (e.g., loyalty, socioeconomic status, historical connections) and types of benefits (e.g., material resources, career positions, or preferential treatment). This analysis helps clarify the extent and variability of patronage’s impact on governance and identify the factors that drive these effects.
-</sub>
-  
-</details>
-
-Deterring Public Procurement Favouritism: Evidence from a Natural Experiment (Single-authored).
-
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-To be added soon :)
-</sub>
-  
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+  <sub>
+    Patronage remains a widespread phenomenon that shapes the functioning of political systems and influences governance outcomes. Scholars across disciplines have explored the impact of patronage on various organisational, institutional, and individual outcomes, highlighting how patronage affects performance, efficiency, and public trust. Numerous studies provide empirical evidence on the strategic allocation of patronage benefits by officials and brokers based on the characteristics of beneficiaries, such as loyalty and social connections, and the nature of benefits provided. While there is some agreement on the general direction of patronage’s impact on these outcomes, there remains significant variation in the size and scope of these effects across contexts. To the best of my knowledge, no study has yet undertaken a systematic assessment of the pooled impact of patronage. This project aims to systematically identify and analyse published quantitative studies on the effects of patronage over the past decade. Through meta-analysis, I estimate the inverse variance-weighted average effect of patronage on organisational performance, institutional efficacy, and public perceptions of institutional integrity. Furthermore, using meta-regression, I investigate the heterogeneity of these effects by examining how outcomes differ based on beneficiary characteristics (e.g., loyalty, socioeconomic status, historical connections) and types of benefits (e.g., material resources, career positions, or preferential treatment). This analysis helps clarify the extent and variability of patronage’s impact on governance and identify the factors that drive these effects.
+  </sub>
 </details>
 
 The Spillover Effects of Audits (Single-authored). 
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
-</sub>
-  
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+  <sub>
+    Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
+  </sub>
+</details>
+
+Deterring Public Procurement Favouritism: Evidence from a Natural Experiment (Single-authored).
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+  <sub>
+    To be added soon :)
+  </sub>
 </details>
 
 Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
 
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
-<sub>
-To be added soon :)
-  
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+  <sub>
+    To be added soon :)
+  </sub>
 </details>
-
