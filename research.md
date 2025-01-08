@@ -93,6 +93,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 </sub> 
 </details>
 
+
 ## Working in progress 
 
 The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
@@ -100,11 +101,9 @@ The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campa
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
-This project seeks to understand how the images development organisations use in campaigns and communications affect public engagement, and specifically, donations and information seeking behaviours. In our design we study the way individuals respond to these images by studying their emotional response, and senses of efficacy and urgency. We then study the effect of these responses on their choices to donate or seek more information about the people in the image. 
+This project seeks to understand how the image development organisations use in campaigns and communications affect public engagement, specifically donations and information-seeking behaviours. In our design, we study how individuals respond to these images by analysing their emotional responses and their senses of efficacy and urgency. We then study the effect of these responses on their choices to donate or seek more information about the people in the image. 
 </sub>
   
-</details>
-
 </details>
 
 A Meta-Analysis of the Effects of Patronage on Public Institutional Performance (Single-authored).
@@ -122,7 +121,7 @@ Deterring Public Procurement Favouritism: Evidence from a Natural Experiment (Si
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
-To be added
+To be added soon :)
 </sub>
   
 </details>
@@ -134,10 +133,11 @@ The Spillover Effects of Audits (Single-authored).
 <sub>
 Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
 </sub>
+  
 </details>
 
-
 Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
+
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: white;">Abstract</summary>
 <sub>
