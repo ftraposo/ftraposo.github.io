@@ -60,12 +60,12 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-Do Government Audits Reduce Bureaucrats' Rent Extraction? (with Luis Soto Tamayo). 
+Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a million bureaucrats. (with Luis Soto Tamayo). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-Governments have widely implemented audits to curb corruption,  increase accountability,  and discourage patronage practices within the public sector. This paper focuses on the impact of audits on civil servants by looking at two main aspects: first, whether audits effectively discourage 'rent-extraction' behaviour among civil servants, and second, whether the audits have a differentiated effect on civil servants with family affiliations. We employ a unique dataset from Chile's 2016 financial and performance audits of civil servants and leverage the random audit assignment across 17 governmental institutions over 8,640 public servants. Our preliminary analysis suggests that audits discourage public officials from engaging in rent extraction, but this impact is small and insignificant. We find some suggestive evidence that bureaucrats offset this drop in rent extraction by either extracting rent from other sources of government activities or by increasing the amount involved in current ones. 
+Governments have widely used audits to combat corruption, enhance accountability, and curb patronage in the public sector. This paper examines the impact of audits on civil servants, assessing their effectiveness in deterring rent-seeking behaviour. Using a unique dataset from Chile, where civil servants were randomly audited in 2016 and leveraging the staggered implementation of audits from 2016 to 2020, we estimate the effects of audits on rent extraction on around 1,000,000 bureaucrats. Our preliminary findings suggest that audits discourage rent-seeking among public officials, though the overall impact is modest.
 </sub>
   
 </details>
