@@ -28,7 +28,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Exploring Global Perspectives from the Development Engagement Lab's Database (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature - Scientific Data.___ 
+Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature - Scientific Data.___ 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
@@ -42,7 +42,7 @@ Exploring Global Perspectives from the Development Engagement Lab's Database (wi
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub> 
-Public support is crucial for shaping effective development aid policies. The Development Engagement Lab (DEL) has conducted comprehensive surveys in France, Germany, Great Britain, and the U.S. between 2019 and 2024 to track and analyse the evolving profile of public attitudes, perceptions and behaviours around global poverty and inequalities, development aid, and the challenges facing the world. This paper presents multiple datasets curated by DEL in all four countries, including longitudinal panels (2019-2023), additional repeated cross-sectional tracking surveys (2019-2024), and a collection of subject-specific data surveys (2019-2023). To facilitate the access and dissemination of the DEL data, we present a new R package, \textit{DELdata}, which allows easy access to all datasets. This comprehensive release will enable researchers and students of public engagement and attitudes towards global development, poverty, and aid to generate new research advancing our knowledge of public opinion and political engagement in this field.
+Public support is crucial for shaping effective foreign aid policy and development cooperation. The Development Engagement Lab (DEL) has conducted surveys in France, Germany, Great Britain, and the United States to track and analyse public attitudes towards foreign aid and engagement with sustainable development. This data descriptor presents multiple datasets, identifying shifts in public opinion and behaviours, alongside underlying mechanisms explaining these attitudes and actions. The dataset comprises nationally representative panel data (2019 - 2024), repeated cross-sections (2019 - 2024), and several foreign aid subject-specific datasets. The DEL data contains 91 unique datasets, with 270,829 observations from 130,286 unique respondents. We have developed an R package, DELdata, to facilitate the use and dissemination of these datasets. These data will enable scholars and policymakers to produce valuable insights that will generate a better understanding of how citizens think about, and engage with, foreign aid and sustainable development. 
 </sub> 
 </details>
 
