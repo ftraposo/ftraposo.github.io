@@ -5,6 +5,27 @@ layout: page
 ---
 
 ## Published/Forthcoming
+***
+Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature - Scientific Data.___ 
+<a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
+</a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
+<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/DELdata.wav" download>
+    <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
+</a>
+<a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
+  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
+</a> 
+
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub> 
+Public support is crucial for shaping effective foreign aid policy and development cooperation. The Development Engagement Lab (DEL) has conducted surveys in France, Germany, Great Britain, and the United States to track and analyse public attitudes towards foreign aid and engagement with sustainable development. This data descriptor presents multiple datasets, identifying shifts in public opinion and behaviours, alongside underlying mechanisms explaining these attitudes and actions. The dataset comprises nationally representative panel data (2019 - 2024), repeated cross-sections (2019 - 2024), and several foreign aid subject-specific datasets. The DEL data contains 91 unique datasets, with 270,829 observations from 130,286 unique respondents. We have developed an R package, DELdata, to facilitate the use and dissemination of these datasets. These data will enable scholars and policymakers to produce valuable insights that will generate a better understanding of how citizens think about, and engage with, foreign aid and sustainable development. 
+</sub> 
+</details>
+
+## Under review 
+***
 
 Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)). ___Under Review.___
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
@@ -28,25 +49,25 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
-Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature - Scientific Data.___ 
-<a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
-</a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
-<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/DELdata.wav" download>
+
+Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
+[<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
+[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
+<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT.wav" download>
     <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
 </a>
-<a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
-  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
-</a> 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub> 
-Public support is crucial for shaping effective foreign aid policy and development cooperation. The Development Engagement Lab (DEL) has conducted surveys in France, Germany, Great Britain, and the United States to track and analyse public attitudes towards foreign aid and engagement with sustainable development. This data descriptor presents multiple datasets, identifying shifts in public opinion and behaviours, alongside underlying mechanisms explaining these attitudes and actions. The dataset comprises nationally representative panel data (2019 - 2024), repeated cross-sections (2019 - 2024), and several foreign aid subject-specific datasets. The DEL data contains 91 unique datasets, with 270,829 observations from 130,286 unique respondents. We have developed an R package, DELdata, to facilitate the use and dissemination of these datasets. These data will enable scholars and policymakers to produce valuable insights that will generate a better understanding of how citizens think about, and engage with, foreign aid and sustainable development. 
-</sub> 
+
+<sub>
+The political and economic consequences of corruption are substantial. Corruption can lead to a reduction in the provision of public goods and undermine trust in democratic institutions. Scholars have been trying to reliably measure the prevalence of corruption behaviors in the population using surveys using direct question format type-of-questions. However, these measures are likely biased due to social desirability and non-response biases. Indirect questioning survey techniques have been designed to minimize these biases and elicit truthful answers to sensitive topics and behavior. However, the canonical design of these techniques only allows the measurement of group-level estimates. This paper provides empirical evidence of an extension of the Randomized Response Technique called the Randomized Item Count Response Technique (RIRT)  to estimate both group- and individual corrupt behaviors (n = 6058 and n = 3692). At the group level, we found prevalence rates from 60% in the case of patronage to 1% in administrative corruption. For individual-level estimates, we found that the distribution of respondents' underlying traits for engaging in corrupt behavior follows a power-law distribution. We implemented several approaches to identify inattentive study participants, showing that our results are robust once we exclude these respondents. 
+</sub>
+
 </details>
 
 ## Working papers
+***
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). 
 [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
@@ -119,21 +140,6 @@ This project seeks to understand how image development organisations use in camp
   
 </details>
 
-Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
-[<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
-[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
-<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT.wav" download>
-    <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
-</a>
-
-<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-
-<sub>
-The political and economic consequences of corruption are substantial. Corruption can lead to a reduction in the provision of public goods and undermine trust in democratic institutions. Scholars have been trying to reliably measure the prevalence of corruption behaviors in the population using surveys using direct question format type-of-questions. However, these measures are likely biased due to social desirability and non-response biases. Indirect questioning survey techniques have been designed to minimize these biases and elicit truthful answers to sensitive topics and behavior. However, the canonical design of these techniques only allows the measurement of group-level estimates. This paper provides empirical evidence of an extension of the Randomized Response Technique called the Randomized Item Count Response Technique (RIRT)  to estimate both group- and individual corrupt behaviors (n = 6058 and n = 3692). At the group level, we found prevalence rates from 60% in the case of patronage to 1% in administrative corruption. For individual-level estimates, we found that the distribution of respondents' underlying traits for engaging in corrupt behavior follows a power-law distribution. We implemented several approaches to identify inattentive study participants, showing that our results are robust once we exclude these respondents. 
-</sub>
-
-</details>
 
 Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
