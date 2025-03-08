@@ -101,12 +101,14 @@ Patronage remains a widespread phenomenon that shapes the functioning of politic
   
 </details>
 
-Deterring Public Procurement Favouritism: Evidence from a Natural Experiment (Single-authored).
+Can E-Procurement Systems Deter Procurement Favouritism? Evidence from a Natural Experiment. 
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-To be added
+
+This study investigates whether the introduction of e-procurement systems can reduce procurement favouritism in public contracting. Leveraging a natural experiment arising from the phased rollout of an electronic procurement platform in Chile, I examine how digitalising procurement processes affects patterns of contract allocation. Using detailed administrative data on public contracts, I exploit variation in the timing of system adoption to estimate its impact. The findings indicate that e-procurement systems significantly reduce indicators of favouritism, such as contract awards to politically connected firms and non-competitive bidding practices. These results highlight the potential of digital tools to enhance transparency and accountability in public procurement.
+
 </sub>
   
 </details>
