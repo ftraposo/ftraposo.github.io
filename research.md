@@ -6,7 +6,7 @@ layout: page
 
 ## Published/Forthcoming
 ***
-Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Conditional Acepted at** ___Nature - Scientific Data.___ 
+Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Forthcoming** ___Nature - Scientific Data.___ 
 <a href="https://osf.io/preprints/osf/y39cz" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
@@ -27,7 +27,7 @@ Public support is crucial for shaping effective foreign aid policy and developme
 ## Under review 
 ***
 
-Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)). ___Under Review.___
+Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)).
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
 </a>
