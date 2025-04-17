@@ -81,7 +81,7 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a million bureaucrats. (with Luis Soto Tamayo). 
+Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with Luis Soto Tamayo). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -91,7 +91,7 @@ Governments have widely used audits to combat corruption, enhance accountability
   
 </details>
 
-A Meta-Analysis of the Effects of Patronage on Public Institutional Performance (Single-authored).
+The Politics of Bureaucracy: Evidence from a Systematic Review and Meta-Analysis (Single-authored).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -141,6 +141,15 @@ This project seeks to understand how image development organisations use in camp
 </sub>
   
 </details>
+
+What Have We Learned About the Effects of Corruption Information? A Systematic Review and Meta-Analysis.
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+To be added soon :)
+  
+</details>
+
 
 
 Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
