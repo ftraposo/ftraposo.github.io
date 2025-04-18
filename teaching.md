@@ -26,4 +26,4 @@ layout: page
 
 ## Free Online Courses
 
-- Political Economy of Development
+- Comparative Political Economy and Development
