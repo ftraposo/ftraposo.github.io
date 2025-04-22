@@ -26,4 +26,4 @@ layout: page
 
 ## Free Online Courses
 
-- Comparative Political Economy and Development
+- Bureaucracy and Development
