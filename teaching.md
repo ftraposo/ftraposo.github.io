@@ -24,6 +24,6 @@ layout: page
 - 6SSPP333 - Development Economics, 2019
 - 4SSPP109 - Quantitative Methods, 2019
 
-## Free Online Courses
+## Planned courses
 
 - Bureaucracy and Development
