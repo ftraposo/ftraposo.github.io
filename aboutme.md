@@ -8,7 +8,7 @@ layout: page
 
 <br> 
 
-I am a Postdoctoral Fellow in Quantitative Methods at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo) at the London School of Economics and Political Science.
+I am a Postdoctoral Fellow in Political Economy at the [Department of Government](https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo) at the London School of Economics and Political Science.
 
 I hold a Master’s in Public Policy and a DPhil (PhD) in Political Science from the University of Oxford, as well as a Master’s in Economics from Queen Mary University of London.
 
