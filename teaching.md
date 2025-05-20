@@ -6,7 +6,7 @@ layout: page
 
 ## London School of Economics and Political Science
 
- - GV481 - Quantitative Analysis for Political Science, 2023
+ - GV481 - Quantitative Analysis for Political Science, 2023 [Course Website](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV481.htm).
 
 ## University College London
 
@@ -18,12 +18,13 @@ layout: page
 
 ## King's College London 
 
-- 6SSPP383 - Advanced Economics of Politics, 2022
-- 6YYD0016 - Advanced topics of Development Economics, 2020
+- 6SSPP383 - Advanced Economics of Politics, 2022  [Course Website](https://www.kcl.ac.uk/abroad/module-options/module?id=33c5f49a-4c1f-4c63-a7aa-69000338386a#:~:text=This%20course%20examines%20public%20policy,complex%20working%20of%20political%20systems.).
+- 6YYD0016 - Advanced topics of Development Economics, 2020 [Course Website](https://uclspp.github.io/PUBL0055/).
 - 5SSPP217 - Intermediate Microeconomics, 2020 & 2021
 - 6SSPP333 - Development Economics, 2019
 - 4SSPP109 - Quantitative Methods, 2019
 
-## Planned courses
+## Online free courses
 
+- Political Economy of Develpment
 - Bureaucracy and Development
