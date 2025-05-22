@@ -6,8 +6,9 @@ layout: page
 
 ## London School of Economics and Political Science
 
- - GV481 - Quantitative Analysis for Political Science, 2023 [Course Website](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV481.htm).
-
+ - GV481 - Quantitative Analysis for Political Science, 2023 & 2024 [Course Website](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV481.htm).
+ - GV481 - Research Design in Political Science, 2020 [Course Website](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/GV/2023_GV249.htm).
+   
 ## University College London
 
 - PUBL0055 - Introduction to Quantitative Research Methods, 2021 [Course Website](https://uclspp.github.io/PUBL0055/).
