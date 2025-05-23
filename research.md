@@ -107,7 +107,8 @@ The Punitive Effects of Audits: Evidence from Peru (Single-authored).
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-To be added soon :)
+I will add this abstract soon. 
+</sub> 
   
 </details>
 
@@ -116,8 +117,9 @@ The Effects of Transparency Laws in Institutional Corruption Using Augmented Syn
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-To be added soon :)
-  
+I will add this abstract soon. 
+</sub> 
+
 </details>
 
 The Politics of Bureaucracy: Evidence from a Systematic Review and Meta-Analysis (Single-authored).
@@ -135,9 +137,7 @@ Can E-Procurement Systems Deter Procurement Favouritism? Evidence from a Natural
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-
 This study investigates whether the introduction of e-procurement systems can reduce procurement favouritism in public contracting. Leveraging a natural experiment arising from the phased rollout of an electronic procurement platform in Chile, I examine how digitalising procurement processes affects patterns of contract allocation. Using detailed administrative data on public contracts, I exploit variation in the timing of system adoption to estimate its impact. The findings indicate that e-procurement systems significantly reduce indicators of favouritism, such as contract awards to politically connected firms and non-competitive bidding practices. These results highlight the potential of digital tools to enhance transparency and accountability in public procurement.
-
 </sub>
   
 </details>
@@ -149,6 +149,7 @@ The Spillover Effects of Audits (Single-authored).
 <sub>
 Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
 </sub>
+  
 </details>
 
 
@@ -168,6 +169,7 @@ What Have We Learned About the Effects of Corruption Information? A Systematic R
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
 To be added soon :)
+</sub> 
   
 </details>
 
@@ -178,5 +180,6 @@ Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
 To be added soon :)
+</sub> 
   
 </details>
