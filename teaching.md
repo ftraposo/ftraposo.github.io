@@ -11,6 +11,7 @@ layout: page
 ## University College London
 
 - PUBL0055 - Introduction to Quantitative Research Methods, 2021 [Course Website](https://uclspp.github.io/PUBL0055/).
+- Research Design Clinics, PG Workshop, Semester 1, 2021.
 
 ## University of Oxford
 
