@@ -49,6 +49,19 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
   
 </details>
 
+The Spillover Effects of Audits (Single-authored). 
+
+<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
+</sub>
+  
+</details>
+
+
+## Working papers
+***
 
 Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
@@ -66,8 +79,6 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 </details>
 
-## Working papers
-***
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). 
 [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
