@@ -27,6 +27,6 @@ layout: page
 
 ## Online/Planned Free Courses
 
-- Political Economy of Develpment
-- Bureaucracy and Development
+- Political Economy of Development
+- Bureaucratic Politics and Development
 - Impact Evaluation for Policy-Makers
