@@ -123,7 +123,7 @@ Several channels have been proposed to explain how audits can curb corruption in
   
 </details>
 
-The Effects of Transparency Laws in Institutional Corruption Using Augmented Synthetic Control (Single-authored).
+Estimating the Effects of Transparency Laws on Corruption Using Augmented Synthetic Control (Single-authored). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
