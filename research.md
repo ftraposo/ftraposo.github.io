@@ -44,7 +44,7 @@ Government Audits of Municipal Corruption and Belief Updating: Experimental from
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
- We implemented a field experiment that assesses whether citizens update corruption beliefs when presented with audit information about malfeasance in their municipal government. The video treatment reports audit results for Chilean municipalities; the control is a placebo video. We measure incentivized pre-treatment and post-treatment corruption beliefs of 5,528 subjects. When informed about corruption in their municipality subjects update negatively. Updating is correlated with reported malfeasance and with trends in malfeasance.  We find limited evidence of Bayesian learning. Treatment effects persist after one-month.  We observe higher donations to local public goods by treated subjects in municipalities with more positive audits.
+We implemented a field experiment that assesses whether citizens update corruption beliefs when presented with audit information about malfeasance in their municipal government. The video treatment reports audit results for Chilean municipalities; the control is a placebo video. We measure incentivized pre-treatment and post-treatment corruption beliefs of 5,528 subjects. When informed about corruption in their municipality subjects update negatively. Updating is correlated with reported malfeasance and with trends in malfeasance.  We find limited evidence of Bayesian learning. Treatment effects persist after one-month.  We observe higher donations to local public goods by treated subjects in municipalities with more positive audits.
 </sub>
   
 </details>
@@ -54,7 +54,7 @@ The Spillover Effects of Audits (Single-authored).
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-Governments across the globe have set audits as one of the primary mechanisms to measure and deter corruption. This paper focuses on the spillover effects of audits within local governments in Chile. Using a fuzzy regression discontinuity design, I exploit the discontinuity in allocating audits within local governments/departments to estimate the effects of audits within departments within each municipality. The fuzzy RD results will be completed using panel data from audits conducted between 2014-2024. I expect to present the preliminary results of both estimation strategies pre-registered in the analysis plan at the conference.
+Governments around the world have implemented audits as a key mechanism to combat corruption. This paper examines the spillover effects of audits within local governments in Chile. Leveraging a fuzzy regression discontinuity design, I exploit the discontinuity in the assignment of audits to estimate their cross-departmental effects within municipalities. The findings show that irregularities in subsequent audits decline by 11%, with significantly larger reductions observed in cases classified as severe or very severe. However, the impact of audits diminishes as the time interval between the initial and subsequent audits increases.
 </sub>
   
 </details>
@@ -118,7 +118,7 @@ The Punitive Effects of Audits: Evidence from Peru (Single-authored).
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-I will add this abstract soon. 
+
 </sub> 
   
 </details>
@@ -128,7 +128,7 @@ The Effects of Transparency Laws in Institutional Corruption Using Augmented Syn
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-I will add this abstract soon. 
+Access to information laws have been widely adopted across South America to promote transparency, strengthen accountability, and reduce corruption. This paper examines the impact of Uruguay’s 2008 Access to Information Law (ATL) on perceived corruption using an augmented synthetic control method. The analysis focuses on both the observed levels of perceived corruption and the variance of this metric. Preliminary results suggest that the ATL had modest short-term effects, with perceived improvements in corruption diminishing steadily after the second year of implementation.
 </sub> 
 
 </details>
