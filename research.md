@@ -118,7 +118,7 @@ The Punitive Effects of Audits: Evidence from Peru (Single-authored).
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-
+Several channels have been proposed to explain how audits can curb corruption in government institutions. Most existing research has focused on political mechanisms, where audits enhance electoral accountability and the quality of political competition. This paper shifts the focus to the judicial channel, examining whether audits facilitate prosecutorial action against corrupt officials. Exploiting the audit selection process in Peru, I estimate the effect of audits on the number of civil servants prosecuted following an audit, as well as the severity of the penalties imposed.
 </sub> 
   
 </details>
