@@ -16,7 +16,8 @@ My research focuses on corruption, bureaucratic politics, the political economy 
 
 Feel free to contact me via email at:`f.torres-raposo@lse.ac.uk`
 
-You can also view [my full CV](https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Felipe_Raposo.pdf?rlkey=tb15r384zadgjndlvvbpv7ysg&dl=0) 
+You can also <a href="https://www.dropbox.com/scl/fi/45oaks8oukalk1v3ibgqp/CV_Felipe_Raposo.pdf?rlkey=tb15r384zadgjndlvvbpv7ysg&dl=0" target="_blank">view my full CV</a> for more information about my academic background and research.
+
 
 
 
