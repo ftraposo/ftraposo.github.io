@@ -28,5 +28,5 @@ layout: page
 ## Online/Planned Free Courses
 
 - Political Economy of Development
-- Bureaucratic Politics and Development
+- Bureaucratic Politics and Development. <a href="https://ftraposo.github.io/Bureaucratic_Politics_and_Development_Syllabus.pdf" target="_blank">Syllabus</a>
 - Impact Evaluation for Policy-Makers
