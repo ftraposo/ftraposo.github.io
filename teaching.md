@@ -20,7 +20,7 @@ layout: page
 ## King's College London 
 
 - 6SSPP383 - Formal Models of Political Economy, 2022, [Course Website](https://www.kcl.ac.uk/abroad/module-options/module?id=33c5f49a-4c1f-4c63-a7aa-69000338386a#:~:text=This%20course%20examines%20public%20policy,complex%20working%20of%20political%20systems.), <a href="https://ftraposo.github.io/Slides_formal.pdf" target="_blank">Slides</a>
-- 6YYD0016 - Advanced Topics of Development Economics, 2020, [Course Website](https://uclspp.github.io/PUBL0055/). <a href="https://ftraposo.github.io/Slides_Advanced_Development.pdf" target="_blank">Syllabus</a>
+- 6YYD0016 - Advanced Topics of Development Economics, 2020, [Course Website](https://uclspp.github.io/PUBL0055/), <a href="https://ftraposo.github.io/Slides_Advanced_Development.pdf" target="_blank">Slides</a>.
 - 5SSPP217 - Intermediate Microeconomics, 2020 & 2021, [Course Website](https://www.kcl.ac.uk/abroad/module-options/intermediate-microeconomics-1).
 - 6SSPP333 - Development Economics, 2019, [Syllabus](https://ftraposo.github.io/6SSPP333_Syllabus_Autum%202023-24.pdf).
 - 4SSPP109 - Research Design and Quantitative Methods, 2019.
