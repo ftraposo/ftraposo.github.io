@@ -8,7 +8,7 @@ layout: page
 ***
 Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Nature - Scientific Data**.
 <a href="https://www.nature.com/articles/s41597-025-05135-0" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Paper badge" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/DELdata.wav" download>
     <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
