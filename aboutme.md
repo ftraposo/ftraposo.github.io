@@ -4,7 +4,8 @@ permalink: "/home/"
 layout: page
 ---
 
-<img align="left" src="/Felipe_profile.jpg" style="margin-right: 20px; width:300px; height:auto;">
+<img align="left" src="/Profile_Felipe.jpeg" style="margin-right: 20px; width:300px; height:auto;">
+
 
 <br> 
 
