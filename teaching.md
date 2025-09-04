@@ -29,4 +29,5 @@ layout: page
 
 - Political Economy of Development. <a href="https://ftraposo.github.io/Political_Economy_of_Development_Syllabus.pdf" target="_blank">Syllabus</a>.
 - Bureaucratic Politics and Development. <a href="https://ftraposo.github.io/Bureaucratic_Politics_and_Development_Syllabus.pdf" target="_blank">Syllabus</a>.
-- Causal Machine Learning (Coming soon). 
+- Causal Machine Learning (Coming soon).
+- Economics of Social Networks (Coming soon).
