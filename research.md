@@ -63,7 +63,7 @@ Governments around the world have implemented audits as a key mechanism to comba
 ## Working papers
 ***
 
-Measuring Corruption using Bayesian Randomise Item Response Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
+Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">](https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf) 
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
 <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT.wav" download>
