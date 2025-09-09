@@ -91,15 +91,6 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with Luis Soto Tamayo). 
-
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-Governments have widely used audits to combat corruption, enhance accountability, and curb patronage in the public sector. This paper examines the impact of audits on civil servants, assessing their effectiveness in deterring rent-seeking behaviour. Using a unique dataset from Chile, where civil servants were randomly audited in 2016 and leveraging the staggered implementation of audits from 2016 to 2020, we estimate the effects of audits on rent extraction on around 1,000,000 bureaucrats. Our preliminary findings suggest that audits discourage rent-seeking among public officials, though the overall impact is modest.
-</sub>
-  
-</details>
 
 Explaining Public Support for Foreign Aid Projects. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
@@ -111,6 +102,16 @@ Public support is understood to be a condition for foreign aid spending in donor
 </details>
 
 ## Work in progress
+
+Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with Luis Soto Tamayo). 
+
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+Governments have widely used audits to combat corruption, enhance accountability, and curb patronage in the public sector. This paper examines the impact of audits on civil servants, assessing their effectiveness in deterring rent-seeking behaviour. Using a unique dataset from Chile, where civil servants were randomly audited in 2016 and leveraging the staggered implementation of audits from 2016 to 2020, we estimate the effects of audits on rent extraction on around 1,000,000 bureaucrats. Our preliminary findings suggest that audits discourage rent-seeking among public officials, though the overall impact is modest.
+</sub>
+  
+</details>
 
 The Punitive Effects of Audits: Evidence from Peru (Single-authored).
 
