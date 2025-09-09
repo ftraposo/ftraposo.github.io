@@ -59,7 +59,6 @@ Governments around the world have implemented audits as a key mechanism to comba
   
 </details>
 
-
 ## Working papers
 ***
 
@@ -104,6 +103,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 </details>
 
 ## Work in progress
+***
 
 Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with Luis Soto Tamayo). 
 
