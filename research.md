@@ -79,7 +79,9 @@ The political and economic consequences of corruption are substantial. Corruptio
 </details>
 
 
-Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). 
+Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). <a href="https://github.com/ftraposo/ftraposo.github.io/edit/master/research.md#:~:text=Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
+</a>
 [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
     <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
 </a>
