@@ -29,7 +29,7 @@ Public support is crucial for shaping effective foreign aid policy and developme
 
 Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)).
 <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Paper badge" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
@@ -79,7 +79,7 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/badge/Unpublished_paper-grey" alt="Unpublished paper badge" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
 [<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
     <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
