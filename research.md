@@ -176,7 +176,7 @@ To be added soon :)
 </details>
 
 
-Adaptive Experimentation to Explore Treatment Effect Heterogeneity Efficiently (Single-authored).
+Reinforcement Learning for Adaptive Sampling to Curb Public Procurement Corruption (Single-authored).
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
