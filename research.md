@@ -91,9 +91,6 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-## Work in progress
-***
-
 Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with Luis Soto Tamayo). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
@@ -103,6 +100,9 @@ Governments have widely used audits to combat corruption, enhance accountability
 </sub>
   
 </details>
+
+## Work in progress
+***
 
 The Punitive Effects of Audits: Evidence from Peru (Single-authored).
 
@@ -172,15 +172,5 @@ Reinforcement Learning for Adaptive Sampling to Curb Public Procurement Corrupti
 <sub>
 To be added soon :)
 </sub> 
-  
-</details>
-
-The Spillover Effects of Audits (Single-authored). 
-
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-Governments around the world have implemented audits as a key mechanism to combat corruption. This paper examines the spillover effects of audits within local governments in Chile. Leveraging a fuzzy regression discontinuity design, I exploit the discontinuity in the assignment of audits to estimate their cross-departmental effects within municipalities. The findings show that irregularities in subsequent audits decline by 11%, with significantly larger reductions observed in cases classified as severe or very severe. However, the impact of audits diminishes as the time interval between the initial and subsequent audits increases.
-</sub>
   
 </details>
