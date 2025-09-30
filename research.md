@@ -49,18 +49,14 @@ We implemented a field experiment that assesses whether citizens update corrupti
   
 </details>
 
-The Spillover Effects of Audits (Single-authored). 
+Explaining Public Support for Foreign Aid Projects. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
-<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-Governments around the world have implemented audits as a key mechanism to combat corruption. This paper examines the spillover effects of audits within local governments in Chile. Leveraging a fuzzy regression discontinuity design, I exploit the discontinuity in the assignment of audits to estimate their cross-departmental effects within municipalities. The findings show that irregularities in subsequent audits decline by 11%, with significantly larger reductions observed in cases classified as severe or very severe. However, the impact of audits diminishes as the time interval between the initial and subsequent audits increases.
-</sub>
-  
+Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
+</sub> 
 </details>
-
-## Working papers
-***
 
 Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
@@ -77,6 +73,9 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 </details>
 
+## Working papers
+***
+
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
@@ -90,16 +89,6 @@ Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experime
 <sub>
 The presentation and framing of information are the foundations of many behavioural experiments. In the case of corruption, policymakers such as NGOs face the challenge of informing citizens about the levels of malfeasance found in their local constituency. This challenge implies identifying an optimal messaging strategy that is sufficiently compelling to attract the interest of citizens. We addressed this challenge by evaluating six strategies for information messages often used in corruption information experiments. Using historical data from local government audit reports in Chile and partnership with the NGO Chile Transparente, we implemented an online adaptive experiment using a modified Thompson Sampling algorithm (Exploration sampling) in which the assignment probabilities of the information treatments were updated in 11 batches of 100 subjects each. The results showed no unique optimal information strategy for malfeasance messages. However, a loss-frame information strategy tends to be slightly more persuasive than other ways of conveying information about corruption. We also found evidence that more rudimentary information metrics of corruption can be equally compelling than more sophisticated ones. Finally, we did not find significant differences between using spatial comparison (i.e. comparing corruption in a local government across local constituencies within the same region) versus a temporal comparison (i.e. comparing the same local government across time).
 </sub>
-</details>
-
-
-Explaining Public Support for Foreign Aid Projects. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
-
-<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
-</sub> 
 </details>
 
 ## Work in progress
@@ -183,5 +172,15 @@ Reinforcement Learning for Adaptive Sampling to Curb Public Procurement Corrupti
 <sub>
 To be added soon :)
 </sub> 
+  
+</details>
+
+The Spillover Effects of Audits (Single-authored). 
+
+<details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+Governments around the world have implemented audits as a key mechanism to combat corruption. This paper examines the spillover effects of audits within local governments in Chile. Leveraging a fuzzy regression discontinuity design, I exploit the discontinuity in the assignment of audits to estimate their cross-departmental effects within municipalities. The findings show that irregularities in subsequent audits decline by 11%, with significantly larger reductions observed in cases classified as severe or very severe. However, the impact of audits diminishes as the time interval between the initial and subsequent audits increases.
+</sub>
   
 </details>
