@@ -105,7 +105,7 @@ Governments have widely used audits to combat corruption, enhance accountability
 ## Work in progress
 ***
 
-The Punitive Effects of Audits: Evidence from Peru (Single-authored).
+The Punitive Legal Consequences of Audits: Evidence from Peru (Single-authored).
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -115,7 +115,7 @@ Several channels have been proposed to explain how audits can curb corruption in
   
 </details>
 
-Estimating the Effects of Transparency Laws on Corruption Using Augmented Synthetic Control (Single-authored). 
+Estimating the Effects of Transparency Laws on Corruption Using an Augmented Synthetic Control (Single-authored). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -125,7 +125,7 @@ Access to information laws have been widely adopted across South America to prom
 
 </details>
 
-The Politics of Bureaucracy: Evidence from a Systematic Review and Meta-Analysis (Single-authored).
+The Politics of Patronage: A Systematic Review and Meta-Analysis (Single-authored).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
