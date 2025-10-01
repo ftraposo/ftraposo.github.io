@@ -58,6 +58,10 @@ Public support is understood to be a condition for foreign aid spending in donor
 </sub> 
 </details>
 
+
+## Working papers
+***
+
 Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
 <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT.wav" download>
@@ -72,9 +76,6 @@ The political and economic consequences of corruption are substantial. Corruptio
 </sub>
 
 </details>
-
-## Working papers
-***
 
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
