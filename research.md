@@ -61,9 +61,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 
 Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
-<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT.wav" download>
-    <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
-</a>
+
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -77,9 +75,6 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
-</a>
-[<img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" style="vertical-align: middle;">](https://www.socialscienceregistry.org/trials/7233) <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/adaptivepodcast.wav" download>
-    <img src="https://img.shields.io/badge/AI%20generated%20podcast-8A2BE2" alt="Data badge" style="vertical-align: middle;">
 </a>
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
