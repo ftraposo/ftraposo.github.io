@@ -145,6 +145,17 @@ This project seeks to understand how image development organisations use in camp
   
 </details>
 
+
+The Politics of Prosecution: District Attorneys and Corruption Enforcement. 
+
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+This paper examines the role of prosecutorial institutions in shaping accountability by studying the staggered implementation of a judicial reform in Chile that introduced district attorneys across region/municipalities. Exploiting this natural experiment, I assess whether the presence of district attorneys increased prosecutions, case filings, and sentences related to corruption. Using administrative and judicial records, I apply a staggered difference-in-differences models that leverage the reform’s gradual rollout across the country.
+</sub> 
+  
+</details>
+
 What Have We Learned About the Effects of Corruption Information? A Systematic Review and Meta-Analysis.
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
