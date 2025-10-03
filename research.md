@@ -59,8 +59,10 @@ Public support is understood to be a condition for foreign aid spending in donor
 ## Working papers
 ***
 
-Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
-[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K) 
+Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with Raymond Duch and [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
+[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K). <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
+</a>
 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
