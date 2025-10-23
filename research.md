@@ -51,6 +51,10 @@ Public support is crucial for shaping effective foreign aid policy and developme
   </a>
 </span>
 
+ <sub>
+Government audits are widely used to expose public malfeasance, but it is unclear whether such information changes citizens’ beliefs or political behaviors. We conducted a field experiment in Chile in which over 5,000 citizens were randomly assigned to view short WhatsApp video summaries of recent municipal audit findings. The audit information caused citizens to significantly update their beliefs about local government corruption, with similar effects across partisan groups. However, these belief changes did not vary meaningfully with the magnitude of malfeasance reported in the audits. Moreover, the information had no detectable effect on related behaviors such as voting or municipal donations. Our findings suggest that while audit disclosures shift public beliefs, they may not spur corresponding behavioral change.
+  </sub>
+
 <p>
   <strong>Public Support for Foreign Aid: The Role of Development Project Characteristics.</strong>
   (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini)
