@@ -10,6 +10,8 @@ layout: page
   <a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" style="text-decoration: none; color: inherit;">
     <strong>Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</strong>
   </a>
+  <span>(with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).</span>
+  <strong><em>Nature - Scientific Data</em></strong>
 
   <a href="https://dataverse.harvard.edu/dataverse/devengagement" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
@@ -19,12 +21,6 @@ layout: page
     <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
   </a>
 </span>
-
-<span>
-  (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). 
-  <strong><em>Nature - Scientific Data</em></strong>
-</span>
-
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -101,18 +97,16 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 </details>
 
-<a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-  <strong>Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment</strong>
-</a>
+<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
+  <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <strong>Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment</strong>
+  </a>
+  <span>(with Raymond Duch)</span>
 
-<!-- Badge directly after the title -->
-<span style="white-space: nowrap; margin-left: 6px;">
   <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption_Information_Design_Experiment_ver6.bib" download="Corruption_Information_Design_Experiment_ver6.bib" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
   </a>
 </span>
-
-(with Raymond Duch)
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
