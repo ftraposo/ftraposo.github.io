@@ -6,28 +6,29 @@ layout: page
 
 ## Published/Forthcoming
 ***
-<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-  <a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" style="text-decoration: none; color: inherit;">
-    <strong>Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</strong>
-  </a>
-  <span>(with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).</span>
-  <strong><em>Nature - Scientific Data</em></strong>
+<div style="margin-bottom: 1em;">
+  <span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
+    <a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" style="text-decoration: none; color: inherit;">
+      <strong>Public Support for Foreign Aid: The Role of Development Project Characteristics</strong>
+    </a>
+    <span>(with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).</span>
 
-  <a href="https://dataverse.harvard.edu/dataverse/devengagement" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
-  </a>
+    <a href="https://dataverse.harvard.edu/dataverse/devengagement" style="text-decoration: none; border: none;">
+      <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
+    </a>
+    <a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="aidconjoint.bib" style="text-decoration: none; border: none;">
+      <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
+    </a>
+  </span>
 
-  <a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="aidconjoint.bib" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
-  </a>
-</span>
+  <details style="padding: 10px; margin-top: 0px; margin-bottom: 10px;">
+    <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+    <sub>
+      Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent.
+    </sub>
+  </details>
+</div>
 
-<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub> 
-Public support is crucial for shaping effective foreign aid policy and development cooperation. The Development Engagement Lab (DEL) has conducted surveys in France, Germany, Great Britain, and the United States to track and analyse public attitudes towards foreign aid and engagement with sustainable development. This data descriptor presents multiple datasets, identifying shifts in public opinion and behaviours, alongside underlying mechanisms explaining these attitudes and actions. The dataset comprises nationally representative panel data (2019 - 2024), repeated cross-sections (2019 - 2024), and several foreign aid subject-specific datasets. The DEL data contains 91 unique datasets, with 270,829 observations from 130,286 unique respondents. We have developed an R package, DELdata, to facilitate the use and dissemination of these datasets. These data will enable scholars and policymakers to produce valuable insights that will generate a better understanding of how citizens think about, and engage with, foreign aid and sustainable development. 
-</sub> 
-</details>
 
 ## Under review 
 ***
