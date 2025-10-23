@@ -109,7 +109,7 @@ Several channels have been proposed to explain how audits can curb corruption in
   
 </details>
 
-The Effects of Patronage: A Systematic Review and Meta-Analysis (Single-authored).
+The Effects of Patronage: A Systematic Review and Meta-Analysis (with Luis Soto Tamayo).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
