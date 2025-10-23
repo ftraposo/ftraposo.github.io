@@ -32,24 +32,24 @@ Public support is crucial for shaping effective foreign aid policy and developme
 ## Under review 
 ***
 
-<a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-  <strong>Government Audits of Municipal Corruption and Belief Updating: Evidence from a Field Experiment</strong>
-</a>
+<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
+  <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <strong>Government Audits of Municipal Corruption and Belief Updating: Evidence from a Field Experiment</strong>
+  </a>
+  <span>(with <a href="https://www.raymondduch.com/" target="_blank">Raymond Duch</a>).</span>
 
-<!-- Badges directly after the title -->
-<span style="white-space: nowrap; margin-left: 6px;">
   <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
   </a>
+
   <a href="https://www.socialscienceregistry.org/trials/5932" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" alt="AER RCT Registry badge" style="vertical-align: middle;">
   </a>
+
   <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption.bib" download="Corruption.bib" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
   </a>
 </span>
-
-(with <a href="https://www.raymondduch.com/" target="_blank">Raymond Duch</a>)
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -72,21 +72,20 @@ Public support is understood to be a condition for foreign aid spending in donor
 ## Working papers
 ***
 
-<a href="https://github.com/ftraposo/ftraposo.github.io/blob/95477d704e5c6aed67dac5d9fedbafa2fceaf4e3/RIRT_wp.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-  <strong>Measuring Corruption using a Bayesian Randomised Item Response Theory Model</strong>
-</a>
+<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
+  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/95477d704e5c6aed67dac5d9fedbafa2fceaf4e3/RIRT_wp.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <strong>Measuring Corruption using a Bayesian Randomised Item Response Theory Model</strong>
+  </a>
+  <span>(with Raymond Duch and <a href="https://politics.princeton.edu/people/ahra-wu" target="_blank">Ahra Wu</a>).</span>
 
-<!-- Badges directly after the title -->
-<span style="white-space: nowrap; margin-left: 6px;">
   <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
   </a>
+
   <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT_wp.bib" download="RIRT_wp.bib" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
   </a>
 </span>
-
-(with Raymond Duch and <a href="https://politics.princeton.edu/people/ahra-wu" target="_blank">Ahra Wu</a>)
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -101,10 +100,14 @@ The political and economic consequences of corruption are substantial. Corruptio
   <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" style="text-decoration: none; color: inherit;">
     <strong>Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment</strong>
   </a>
-  <span>(with Raymond Duch)</span>
+  <span>(with Raymond Duch).</span>
 
-  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption_Information_Design_Experiment_ver6.bib" download="Corruption_Information_Design_Experiment_ver6.bib" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
+  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption_Information_Design_Experiment_ver6.bib" 
+     download="Corruption_Information_Design_Experiment_ver6.bib" 
+     style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" 
+         alt="Cite badge" 
+         style="vertical-align: middle;">
   </a>
 </span>
 
