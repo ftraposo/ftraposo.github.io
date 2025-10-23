@@ -99,7 +99,7 @@ Governments have widely used audits to combat corruption, enhance accountability
 ## Work in progress
 ***
 
-The Punitive Legal Consequences of Audits: Evidence from Peru (Single-authored).
+From Oversight to Sanction: Evidence from Peru (Single-authored).
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -109,17 +109,7 @@ Several channels have been proposed to explain how audits can curb corruption in
   
 </details>
 
-Estimating the Effects of Transparency Laws on Corruption Using an Augmented Synthetic Control (Single-authored). 
-
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-Access to information laws have been widely adopted across South America to promote transparency, strengthen accountability, and reduce corruption. This paper examines the impact of Uruguay’s 2008 Access to Information Law (ATL) on perceived corruption using an augmented synthetic control method. The analysis focuses on both the observed levels of perceived corruption and the variance of this metric. Preliminary results suggest that the ATL had modest short-term effects, with perceived improvements in corruption diminishing steadily after the second year of implementation.
-</sub> 
-
-</details>
-
-The Politics of Patronage: A Systematic Review and Meta-Analysis (Single-authored).
+The Effects of Patronage: A Systematic Review and Meta-Analysis (Single-authored).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -146,27 +136,6 @@ The Politics of Prosecution: District Attorneys and Corruption Enforcement.
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
 This paper examines the role of prosecutorial institutions in shaping accountability by studying the staggered implementation of a judicial reform in Chile that introduced district attorneys across region/municipalities. Exploiting this natural experiment, I assess whether the presence of district attorneys increased prosecutions, case filings, and sentences related to corruption. Using administrative and judicial records, I apply a staggered difference-in-differences models that leverage the reform’s gradual rollout across the country.
-</sub> 
-  
-</details>
-
-What Have We Learned About the Effects of Corruption Information? A Systematic Review and Meta-Analysis.
-
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-To be added soon :)
-</sub> 
-  
-</details>
-
-
-Reinforcement Learning for Adaptive Sampling to Curb Public Procurement Corruption (Single-authored).
-
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-To be added soon :)
 </sub> 
   
 </details>
