@@ -6,13 +6,18 @@ layout: page
 
 ## Published/Forthcoming
 ***
-Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Nature - Scientific Data**.
-<a href="https://www.nature.com/articles/s41597-025-05135-0" style="text-decoration: none; border: none;">
-  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
-</a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
-<a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
-  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
+<a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" style="text-decoration: none; color: inherit;">
+  <strong>Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</strong>
 </a> 
+(with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). 
+<strong><em>Nature - Scientific Data</em></strong> 
+
+[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
+
+<a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="aidconjoint.bib">
+  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
+</a>
+
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
