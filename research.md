@@ -6,90 +6,64 @@ layout: page
 
 ## Published/Forthcoming
 ***
-<div style="margin-bottom: 1em;">
-  <span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-    <a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" style="text-decoration: none; color: inherit;">
-      <strong>Public Support for Foreign Aid: The Role of Development Project Characteristics</strong>
-    </a>
-    <span>(with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).</span>
+Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). **Nature - Scientific Data**.
+<a href="https://www.nature.com/articles/s41597-025-05135-0" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
+</a>[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
+<a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
+  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
+</a> 
 
-    <a href="https://dataverse.harvard.edu/dataverse/devengagement" style="text-decoration: none; border: none;">
-      <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
-    </a>
-    <a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="aidconjoint.bib" style="text-decoration: none; border: none;">
-      <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
-    </a>
-  </span>
-
-  <details style="padding: 10px; margin-top: 0px; margin-bottom: 10px;">
-    <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-    <sub>
-      Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent.
-    </sub>
-  </details>
-</div>
-
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub> 
+Public support is crucial for shaping effective foreign aid policy and development cooperation. The Development Engagement Lab (DEL) has conducted surveys in France, Germany, Great Britain, and the United States to track and analyse public attitudes towards foreign aid and engagement with sustainable development. This data descriptor presents multiple datasets, identifying shifts in public opinion and behaviours, alongside underlying mechanisms explaining these attitudes and actions. The dataset comprises nationally representative panel data (2019 - 2024), repeated cross-sections (2019 - 2024), and several foreign aid subject-specific datasets. The DEL data contains 91 unique datasets, with 270,829 observations from 130,286 unique respondents. We have developed an R package, DELdata, to facilitate the use and dissemination of these datasets. These data will enable scholars and policymakers to produce valuable insights that will generate a better understanding of how citizens think about, and engage with, foreign aid and sustainable development. 
+</sub> 
+</details>
 
 ## Under review 
 ***
 
-<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-  <a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-    <strong>Government Audits of Municipal Corruption and Belief Updating: Evidence from a Field Experiment</strong>
-  </a>
-  <span>(with <a href="https://www.raymondduch.com/" target="_blank">Raymond Duch</a>).</span>
-
-  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
-  </a>
-
-  <a href="https://www.socialscienceregistry.org/trials/5932" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" alt="AER RCT Registry badge" style="vertical-align: middle;">
-  </a>
-
-  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption.bib" download="Corruption.bib" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
-  </a>
-</span>
+Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)).
+<a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
+</a>
+<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
+</a>
+<a href="https://www.socialscienceregistry.org/trials/5932" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/AER_RCT_Registry-crimson" alt="AER RCT Registry badge" style="vertical-align: middle;">
+</a>
+<a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption.bib" download="Corruption.bib" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
+</a>
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
- <sub>
-Government audits are widely used to expose public malfeasance, but it is unclear whether such information changes citizens’ beliefs or political behaviors. We conducted a field experiment in Chile in which over 5,000 citizens were randomly assigned to view short WhatsApp video summaries of recent municipal audit findings. The audit information caused citizens to significantly update their beliefs about local government corruption, with similar effects across partisan groups. However, these belief changes did not vary meaningfully with the magnitude of malfeasance reported in the audits. Moreover, the information had no detectable effect on related behaviors such as voting or municipal donations. Our findings suggest that while audit disclosures shift public beliefs, they may not spur corresponding behavioral change.
-  </sub>
+<sub>
+We implemented a field experiment that assesses whether citizens update corruption beliefs when presented with audit information about malfeasance in their municipal government. The video treatment reports audit results for Chilean municipalities; the control is a placebo video. We measure incentivized pre-treatment and post-treatment corruption beliefs of 5,528 subjects. When informed about corruption in their municipality subjects update negatively. Updating is correlated with reported malfeasance and with trends in malfeasance.  We find limited evidence of Bayesian learning. Treatment effects persist after one-month.  We observe higher donations to local public goods by treated subjects in municipalities with more positive audits.
+</sub>
+  
 </details>
-<p>
-  <strong>Public Support for Foreign Aid: The Role of Development Project Characteristics.</strong>
-  (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini)
-  <a href="https://dataverse.harvard.edu/dataverse/devengagement" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
-  </a>
-</p>
+
+Public Support for Foreign Aid: The Role of Development Project Characteristics. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-  <sub>
-    Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent.
-  </sub>
+<sub>
+Public support is understood to be a condition for foreign aid spending in donor countries. But do donor publics have preferences on which aid projects foreign aid is spent? Drawing on a new dataset examining four donor countries – France, Germany, Great Britain and the United States (n= 26,169) – we leverage a unique conjoint experiment to understand better which attributes of aid projects generate more or less support with donor publics. Our results show that respondents are more likely to support projects targeting water, sanitation, and hygiene (WASH), food security, and health programmes. Projects focused on gender equality, environment, infrastructure and social protection are negatively associated with support. In line with our expectations, we find effects for need and aid effectiveness: higher levels of extreme poverty and effectiveness of aid are associated with support for the development project, whereas low levels of need and low effectiveness are negatively associated with support. Second, we find few effects for region, with less support for projects targeted to the Middle East and Northern Africa. Finally, our main findings are robust when we remove need and effectiveness as attributes, demonstrating while these are important drivers of support, they do not crowd out other attributes or dimensions. Our findings show that in addition to preferences on overall levels of foreign aid spending, donor publics have a consistent set of preferences on how aid is spent. 
+</sub> 
 </details>
+
 
 ## Working papers
 ***
 
-<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/95477d704e5c6aed67dac5d9fedbafa2fceaf4e3/RIRT_wp.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-    <strong>Measuring Corruption using a Bayesian Randomised Item Response Theory Model</strong>
-  </a>
-  <span>(with Raymond Duch and <a href="https://politics.princeton.edu/people/ahra-wu" target="_blank">Ahra Wu</a>).</span>
+Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with Raymond Duch and [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
+[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K). <a href="https://github.com/ftraposo/ftraposo.github.io/blob/95477d704e5c6aed67dac5d9fedbafa2fceaf4e3/RIRT_wp.pdf" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
+</a>
 
-  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
-  </a>
-
-  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/RIRT_wp.bib" download="RIRT_wp.bib" style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
-  </a>
-</span>
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -100,20 +74,10 @@ The political and economic consequences of corruption are substantial. Corruptio
 
 </details>
 
-<span style="display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-  <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-    <strong>Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment</strong>
-  </a>
-  <span>(with Raymond Duch).</span>
 
-  <a href="https://github.com/ftraposo/ftraposo.github.io/blob/master/Corruption_Information_Design_Experiment_ver6.bib" 
-     download="Corruption_Information_Design_Experiment_ver6.bib" 
-     style="text-decoration: none; border: none;">
-    <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" 
-         alt="Cite badge" 
-         style="vertical-align: middle;">
-  </a>
-</span>
+Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment (with Raymond Duch). <a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none; border: none;">
+  <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
+</a>
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
