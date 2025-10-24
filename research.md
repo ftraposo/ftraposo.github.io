@@ -46,7 +46,7 @@ We implemented a field experiment that assesses whether citizens update corrupti
   
 </details>
 
-Public Support for Foreign Aid: The Role of Development Project Characteristics. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).<a href="https://github.com/ftraposo/ftraposo.github.io/blob/b512e6ee69d487eac754ec72dcf3e16ce2e5ec7a/Aid_Conjoint_FT.pdf" style="text-decoration: none; border: none;">
+Public Support for Foreign Aid: The Role of Development Project Characteristics. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).<a href="https://ftraposo.github.io/Aid_Conjoint_FT.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
@@ -63,7 +63,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 ***
 
 Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with Raymond Duch and [Ahra Wu](https://politics.princeton.edu/people/ahra-wu)).
-[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K). <a href="https://github.com/ftraposo/ftraposo.github.io/blob/95477d704e5c6aed67dac5d9fedbafa2fceaf4e3/RIRT_wp.pdf" style="text-decoration: none; border: none;">
+[<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K). <a href="https://ftraposo.github.io/RIRT_wp.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
 
