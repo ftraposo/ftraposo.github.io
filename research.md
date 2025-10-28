@@ -46,7 +46,7 @@ We implemented a field experiment that assesses whether citizens update corrupti
   
 </details>
 
-Public Support for Foreign Aid: The Role of Development Project Characteristics. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).<a href="https://ftraposo.github.io/Aid_Conjoint_FT.pdf" style="text-decoration: none; border: none;">
+Public Support for Foreign Aid: The Role of Development Project Characteristics. (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini).<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5672010" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
