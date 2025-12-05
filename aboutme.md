@@ -21,7 +21,7 @@ Please find <a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="no
 
 You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_master_version.pdf" target="_blank">view my full CV here</a> for more details about my academic background and research.
 
-**The LSE fellows at the Government/SPP department are organising an Early Career Workshop in Political Economy and Political Science. Please submit** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYFIvSiqssnmA_L1y2cLOziFf-p9nUnU92SouiXyfftsMnmA/viewform?usp=header" target="_blank">HERE</a>.
+**Together with the LSE Fellows in the Department of Government, I am organising an Early Career Workshop in Political Economy and Political Science. You are warmly invited to submit your paper** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYFIvSiqssnmA_L1y2cLOziFf-p9nUnU92SouiXyfftsMnmA/viewform?usp=header" target="_blank">HERE</a>.
 
 
 
