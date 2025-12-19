@@ -17,7 +17,7 @@ My research focuses on corruption, bureaucratic politics, the political economy 
 
 Feel free to contact me via email at:`f.torres-raposo@lse.ac.uk`
 
-Please find <a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="noopener">here</a> my job market paper. I have been fortunate that this work has received recognition from the Bank of Portugal and the Public Policy Research Network.
+Please find <a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="noopener">here</a> my job market paper. I was fortunate to receive the Bank of Portugal Best Paper Prize and the Public Policy Research Network Best Paper Award for this work.
 
 You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_master_version.pdf" target="_blank">view my full CV here</a> for more details about my academic background and research.
 
