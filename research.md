@@ -102,12 +102,12 @@ Governments have widely used audits to combat corruption, enhance accountability
 ## Work in progress
 ***
 
-From Oversight to Sanction: Evidence from Peru (Single-authored).
+Prosecutors and the Emergence of a Virtuous Anti-Corruption Cycle: Evidence from Chile, Ecuador and Peru (Single-authored).
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-Several channels have been proposed to explain how audits can curb corruption in government institutions. Most existing research has focused on political mechanisms, where audits enhance electoral accountability and the quality of political competition. This paper shifts the focus to the judicial channel, examining whether audits facilitate prosecutorial action against corrupt officials. Exploiting the audit selection process in Peru, I estimate the effect of audits on the number of civil servants prosecuted following an audit, as well as the severity of the penalties imposed.
+District attorneys’ offices in Latin America have increasingly established specialised anti-corruption units to prosecute corruption cases more effectively. However, there is limited evidence on whether these units actually improve the prosecution of corrupt actors. In particular, it remains unclear whether they enhance prosecutorial efficiency or lead to more severe convictions. Leveraging administrative data from district attorneys’ offices and trial records from Chile, Ecuador, and Peru, this study examines whether the creation of specialised anti-corruption units increases the supply of corruption cases brought forward, shortens the length of proceedings, and raises sentence severity. I employ a regression discontinuity in time design, exploiting the deterministic assignment of corruption cases to these units from a specific cut-off date, to estimate their causal impact on prosecutorial outcomes.
 </sub> 
   
 </details>
@@ -122,6 +122,16 @@ Patronage remains a widespread phenomenon that shapes the functioning of politic
   
 </details>
 
+Does Foreign Aid Improve Accountability and Transparency? Evidence from Jamaica.
+
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+To be added soon :) 
+</sub> 
+  
+</details>
+
 The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with Jennifer Hudson, David Hudson, Soomin Oh, Paolo Morini). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
@@ -133,12 +143,4 @@ This project seeks to understand how image development organisations use in camp
 </details>
 
 
-The Politics of Prosecution: District Attorneys and Corruption Enforcement. 
 
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-This paper examines the role of prosecutorial institutions in shaping accountability by studying the staggered implementation of a judicial reform in Chile that introduced district attorneys across region/municipalities. Exploiting this natural experiment, I assess whether the presence of district attorneys increased prosecutions, case filings, and sentences related to corruption. Using administrative and judicial records, I apply a staggered difference-in-differences models that leverage the reform’s gradual rollout across the country.
-</sub> 
-  
-</details>
