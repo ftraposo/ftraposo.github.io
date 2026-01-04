@@ -27,6 +27,7 @@ layout: page
 
 ## Online/Planned Free Courses
 
+- Latin American Politics. <a href="https://ftraposo.github.io/Political_Economy_of_Development_Syllabus.pdf" target="_blank">Syllabus</a>.
 - Political Economy of Development. <a href="https://ftraposo.github.io/Political_Economy_of_Development_Syllabus.pdf" target="_blank">Syllabus</a>.
 - Bureaucratic Politics in Latin America <a href="https://ftraposo.github.io/Bureaucratic_Politics_and_Development_Syllabus.pdf" target="_blank">Syllabus</a>.
-- Machine Learning for Social Sciences (Coming soon). 
+
