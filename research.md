@@ -25,7 +25,7 @@ Public support is crucial for shaping effective foreign aid policy and developme
 ***
 
 Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment (with [Raymond Duch](https://www.raymondduch.com/)) **R&R - Comparative Political Studies**.
-<a href="https://raymondduch.com/files/government-audits-municipal-corruption-belief.pdf" style="text-decoration: none; border: none;">
+<a href="https://ftraposo.github.io/JMP.pdf" style="text-decoration: none; border: none;"> 
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
