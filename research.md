@@ -143,7 +143,7 @@ This project seeks to understand how image development organisations use in camp
 </details>
 
 
-Validating LLM-Based Digital Interviews For Individual-Level Public Opinion: A Chilean Election Study (with Raymond Duch). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">]([https://osf.io/dg245](https://osf.io/eukm9/overview) 
+Validating LLM-Based Digital Interviews For Individual-Level Public Opinion: A Chilean Election Study (with Raymond Duch). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/eukm9/overview) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
