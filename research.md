@@ -143,4 +143,15 @@ This project seeks to understand how image development organisations use in camp
 </details>
 
 
+Validating LLM-Based Digital Interviews For Individual-Level Public Opinion: A Chilean Election Study (with Raymond Duch). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">]([https://osf.io/dg245](https://osf.io/eukm9/overview) 
+
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+A study to evaluate how accurately large language models (LLMs) can replicate individual-level political attitudes and demographics by analyzing social media data. The project builds on recent work by (Cerina and Duch ,2025 and Cerina and Duch, 2026) that used LLM-driven “digital interviews” of social media users to estimate public opinion and forecast elections.
+</sub>
+  
+</details>
+
+
 
