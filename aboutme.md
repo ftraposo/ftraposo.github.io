@@ -13,7 +13,7 @@ I am a Postdoctoral Fellow at the [Department of Government](https://www.lse.ac.
 
 I hold a Master’s in Public Policy and a DPhil (PhD) in Political Science from the University of Oxford, as well as a Master’s in Economics from Queen Mary University of London.
 
-My research focuses on corruption, bureaucratic politics, the political economy of foreign aid, and adaptive experimentation with a regional interest in Latin America.  
+My research focuses on governance, corruption, bureaucratic politics, and the political economy of foreign aid, with a regional interest in Latin America.  
 
 Feel free to contact me via email at:`f.torres-raposo@lse.ac.uk`
 
