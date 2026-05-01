@@ -62,7 +62,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 ## Working papers
 ***
 
-Measuring Corruption using a Bayesian Randomise Item Response Theory Model (with Raymond Duch).
+Measuring Corruption using a Bayesian Randomised Item Response Theory Model (with Raymond Duch).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K). <a href="https://ftraposo.github.io/RIRT_wp.pdf" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Paper-grey" alt="Paper badge" style="vertical-align: middle;">
 </a>
