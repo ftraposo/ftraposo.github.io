@@ -122,12 +122,12 @@ Patronage remains a widespread phenomenon that shapes the functioning of politic
   
 </details>
 
-Does Foreign Aid Improve Accountability and Transparency? Evidence from Jamaica.
+The Transparency Dividend: A Staggered Synthetic Control Analysis of FOI Laws. 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-To be added soon :) 
+Freedom of Information (FOI) laws have spread rapidly across the globe since the 1990s, yet whether they translate into meaningful reductions in political corruption remains contested. This paper estimates the causal effect of FOI legislation using a staggered augmented synthetic control design, exploiting cross-national variation in the timing of law enactment across 111 countries between 1960 and 2025. I find that FOI laws produce a modest but persistent reduction in political corruption: the average treatment effect grows from -0.012 at enactment to -0.035 by the eighth post-treatment year, equivalent to approximately 0.17 standard deviations. The monotonically increasing trajectory and strong pre-treatment balance support a causal interpretation. Results are robust to alternative outcome measures including the Transparency International Corruption Perceptions Index.
 </sub> 
   
 </details>
