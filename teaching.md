@@ -10,7 +10,7 @@ layout: page
 - POLS0010 - Data Analysis
 - POLS0060 - Science, Scientific Discovery and Statistics 
 
-## London School of Economics and Political Science (2023)
+## London School of Economics and Political Science (2023-2026)
 
  - GV481 - Quantitative Analysis for Political Science, 2023 & 2024, <a href="https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV481.htm" target="_blank">Course Website</a>.
 
