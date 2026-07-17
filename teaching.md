@@ -19,7 +19,7 @@ layout: page
 - PUBL0055 - Introduction to Quantitative Research Methods, 2021, <a href="https://uclspp.github.io/PUBL0055//" target="_blank">Course Website</a>.
 - Research Design Clinics, PG Workshop, Semester 1, 2021.
 
-## University of Oxford (2021)
+## University of Oxford (2021-2022)
 
 - Causal Inference, University of Oxford, 2021 & 2022, <a href="https://ftraposo.github.io/causal_inference/" target="_blank">Course Website</a>. 
 
