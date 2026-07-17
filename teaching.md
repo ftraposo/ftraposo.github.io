@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: "/teaching/"
 layout: page
 ---
-## University College London (2026/2027)
+## University College London (2026-2027)
 
 - PUBL0055 - Introduction to Quantitative Methods
 - POLS0012 - Causal Analysis in Data Science
