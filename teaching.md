@@ -12,7 +12,7 @@ layout: page
 
 ## London School of Economics and Political Science (2023-2026)
 
- - GV481 - Quantitative Analysis for Political Science, 2023 & 2024, <a href="https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GV/2022_GV481.htm" target="_blank">Course Website</a>.
+ - GV481 - Quantitative Analysis for Political Science, 2023 & 2024, <a href="https://www.lse.ac.uk/resources/calendar2025-2026/courseGuides/GV/2025_GV481.htm" target="_blank">Course Website</a>.
 
 ## University College London (2021)
 
