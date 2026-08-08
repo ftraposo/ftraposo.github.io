@@ -6,7 +6,7 @@ layout: page
 
 ## Published/Forthcoming
 ***
-<a href="https://www.nature.com/articles/s41597-025-05135-0" style="text-decoration: none;">Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>). **Nature - Scientific Data**.
+<a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>). **Nature - Scientific Data**.
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 <a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
   <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
@@ -22,7 +22,7 @@ Public support is crucial for shaping effective foreign aid policy and developme
 ## Under review 
 ***
 
-<a href="https://ftraposo.github.io/JMP.pdf" style="text-decoration: none;">Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)) **R&R - Comparative Political Studies**.
+<a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)) **R&R - Comparative Political Studies**.
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
 </a>
@@ -41,7 +41,7 @@ We implemented a field experiment that assesses whether citizens update corrupti
   
 </details>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5672010" style="text-decoration: none;">Public Support for Foreign Aid: The Role of Development Project Characteristics.</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>).
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5672010" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Public Support for Foreign Aid: The Role of Development Project Characteristics.</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
@@ -55,7 +55,7 @@ Public support is understood to be a condition for foreign aid spending in donor
 ## Working papers
 ***
 
-<a href="https://ftraposo.github.io/RIRT_wp.pdf" style="text-decoration: none;">Measuring Corruption using a Bayesian Randomised Item Response Theory Model</a> (with [Raymond Duch](https://www.raymondduch.com/)).
+<a href="https://ftraposo.github.io/RIRT_wp.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Measuring Corruption using a Bayesian Randomised Item Response Theory Model</a> (with [Raymond Duch](https://www.raymondduch.com/)).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K).
 
 
@@ -69,7 +69,7 @@ The political and economic consequences of corruption are substantial. Corruptio
 </details>
 
 
-<a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" style="text-decoration: none;">Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)).
+<a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Choice Architecture for Messaging Corruption: Evidence from an Adaptive Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)).
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
