@@ -6,7 +6,7 @@ layout: page
 
 ## Published/Forthcoming
 ***
-<a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>). **Nature - Scientific Data**.
+<a href="https://www.nature.com/articles/s41597-025-05135-0" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Survey Data on Attitudes Towards Foreign Aid & Development in France, Germany, Great Britain, and the U.S</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Paolo Morini</a>). **Nature - Scientific Data**.
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 <a href="https://raw.githubusercontent.com/ftraposo/ftraposo.github.io/master/aidconjoint.bib" download="Corruption.bib">
   <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Data badge" style="vertical-align: middle;">
@@ -33,6 +33,8 @@ Public support is crucial for shaping effective foreign aid policy and developme
   <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
 </a>
 
+<p style="margin-top: 8px; margin-bottom: 0px; font-style: italic;">🏆 Winner, Public Policy Research Network Best Paper Award — Lisbon Meeting in Economics and Political Science.</p>
+
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
@@ -41,7 +43,7 @@ We implemented a field experiment that assesses whether citizens update corrupti
   
 </details>
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5672010" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Public Support for Foreign Aid: The Role of Development Project Characteristics.</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>).
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5672010" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Public Support for Foreign Aid: The Role of Development Project Characteristics.</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Paolo Morini</a>).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
@@ -78,7 +80,7 @@ The presentation and framing of information are the foundations of many behaviou
 </sub>
 </details>
 
-Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with <a href="https://sites.google.com/view/luissoto-tamayo/about" style="text-decoration: none;">Luis Soto Tamayo</a>). 
+Do Government Audits Reduce Bureaucrats' Rent Extraction? Evidence from a Million Bureaucrats. (with <a href="https://sites.google.com/view/luissoto-tamayo/about" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Luis Soto Tamayo</a>). 
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -101,7 +103,7 @@ District attorneys’ offices in Latin America have increasingly established spe
   
 </details>
 
-The Effects of Patronage: A Systematic Review and Meta-Analysis (with <a href="https://sites.google.com/view/luissoto-tamayo/about" style="text-decoration: none;">Luis Soto Tamayo</a>).
+The Effects of Patronage: A Systematic Review and Meta-Analysis (with <a href="https://sites.google.com/view/luissoto-tamayo/about" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Luis Soto Tamayo</a>).
 
 <details style="padding: 10px; margin-top: 3px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
@@ -121,7 +123,7 @@ Freedom of Information (FOI) laws have spread rapidly across the globe since the
   
 </details>
 
-The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" style="text-decoration: none;">Paolo Morini</a>). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
+The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Paolo Morini</a>). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
