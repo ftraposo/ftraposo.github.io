@@ -33,7 +33,7 @@ Public support is crucial for shaping effective foreign aid policy and developme
   <img src="https://img.shields.io/badge/Cite-%23f8eb47.svg" alt="Cite badge" style="vertical-align: middle;">
 </a>
 
-<p style="margin-top: 8px; margin-bottom: 0px; font-style: italic;">🏆 Winner, Public Policy Research Network Best Paper Award — Lisbon Meeting in Economics and Political Science.</p>
+<p style="margin-top: 8px; margin-bottom: 0px; font-style: italic;"> Public Policy Research Network Best Paper Award / Lisbon Meeting in Economics and Political Science Best Paper Award.</p>
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
