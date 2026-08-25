@@ -23,7 +23,7 @@ You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_Master_New.pdf
 
 <h3>Upcoming Presentations</h3>
 <ul>
-  <li><a href="https://sites.google.com/view/jlprc/home" target="_blank" rel="noopener noreferrer">Junior Law and Politics Research Community</a>, 11 November</li>
+  <li><a href="https://sites.google.com/view/jlprc/home" target="_blank" rel="noopener noreferrer">Junior Law and Politics Research Community</a>, 11 November 2026</li>
   <li><a href="https://www.lse.ac.uk/government/research/research-groups/political-science-and-political-economy" target="_blank" rel="noopener noreferrer">PSPE Work in Progress Seminar</a>, 2 December 2026</li>
 </ul>
 
