@@ -123,6 +123,17 @@ Freedom of Information (FOI) laws have spread rapidly across the globe since the
   
 </details>
 
+Connected and Protected? A Conjoint Experiment on Sanctioning Legitimacy among Local Bureaucrats (with <a href="https://sites.google.com/view/luissoto-tamayo/about" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Luis Soto Tamayo</a>).
+
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+Government audits are widely used to deter bureaucratic rent-seeking, yet their effectiveness may depend on whether sanctions are perceived as legitimate, particularly when informal networks are believed to shield well-connected officials from consequences. We use a conjoint experiment embedded in a survey of municipal civil servants to examine how family ties, audit selection method, sanction severity, and organizational rank shape perceptions of sanctioning legitimacy and willingness to report misconduct. Respondents evaluate hypothetical audit outcomes involving colleagues who vary along these dimensions, allowing us to estimate the independent and interactive effects of kinship connections and procedural features on perceived fairness. We further leverage a pre-treatment belief battery, capturing respondents' prior perceptions of audit risk, sanction severity, and connection-based favoritism, to test whether these beliefs moderate conjoint responses. Our design speaks to canonical deterrence theories, which emphasize perceived rather than actual detection and punishment probabilities, by identifying a channel through which informal networks may undermine the legitimacy, and thus the deterrent power, of formal accountability institutions: perceived favoritism.
+</sub>
+  
+</details>
+
+
 The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Paolo Morini</a>). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
