@@ -1,9 +1,8 @@
 ---
-
 title: "Hello, welcome to my website!"
 permalink: "/home/"
 layout: page
-------------
+---
 
 <img align="left" src="/Profile_2.jpeg" style="margin-right: 20px; width:350px; height:auto;">
 
