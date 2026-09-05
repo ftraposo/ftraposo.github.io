@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-I am currently an Associate Lecturer in Quantitative Methods in the <a href="https://www.ucl.ac.uk/social-historical-sciences/political-science" target="_blank" rel="noopener noreferrer">Department of Political Science</a> at University College London. Prior to joining UCL, I was a Postdoctoral Fellow in the <a href="https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo" target="_blank" rel="noopener noreferrer">Department of Government</a> at the London School of Economics and Political Science.
+I am an Associate Lecturer in Quantitative Methods in the <a href="https://www.ucl.ac.uk/social-historical-sciences/political-science" target="_blank" rel="noopener noreferrer">Department of Political Science</a> at University College London. Prior to joining UCL, I was a Postdoctoral Fellow in the <a href="https://www.lse.ac.uk/government/people/academic-staff/felipe-torres-raposo" target="_blank" rel="noopener noreferrer">Department of Government</a> at the London School of Economics and Political Science.
 
 I am also currently the recipient of a British Academy/Leverhulme Small Research Grant for a project examining how oversight shapes public servants' behaviour, and whether political and family connections shape institutional effectiveness.
 
@@ -16,7 +16,7 @@ I hold a Master’s in Public Policy and a DPhil (PhD) in Political Science from
 
 My research focuses on governance, corruption, bureaucratic politics, and the political economy of foreign aid, with a regional interest in Latin America.
 
-Feel free to contact me via email at: `f.torres-raposo@ucl.ac.uk`
+Feel free to contact me via email at: `felipe.raposo@ulc.ac.uk`
 
 You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_Master_New.pdf" target="_blank">view my full CV here</a> for more details about my academic background and research.
 
