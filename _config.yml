@@ -1,6 +1,6 @@
 title: "Welcome to my website"
 author: "Felipe Torres"
-description: "London School of Economics and Political Science"
+description: "University College London"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
