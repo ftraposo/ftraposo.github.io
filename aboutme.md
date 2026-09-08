@@ -16,7 +16,7 @@ I hold a Master’s in Public Policy and a DPhil (PhD) in Political Science from
 
 My research focuses on governance, corruption, bureaucratic politics, and the political economy of foreign aid, with a regional interest in Latin America.
 
-Feel free to contact me via email at: `felipe.raposo@ulc.ac.uk`
+Feel free to contact me via email at: `f.torres-raposo@ulc.ac.uk`
 
 You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_Master_New.pdf" target="_blank">view my full CV here</a> for more details about my academic background and research.
 
