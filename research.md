@@ -143,3 +143,12 @@ This project seeks to understand how image development organisations use in camp
 </sub>
   
 </details>
+
+
+Kin in the Corps: Family Ties and Career Trajectories in Brazil’s Diplomatic Service, 1961–2010 (with Gabriel Soyer and Luis Soto).
+
+<sub>
+To be added soon
+</sub>
+  
+</details>
