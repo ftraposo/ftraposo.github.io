@@ -150,7 +150,7 @@ Kin in the Corps: Family Ties and Career Trajectories in Brazil’s Diplomatic S
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-To be added soon
+This study examines whether family connections influence career trajectories within a formally meritocratic diplomatic bureaucracy. We study Brazil's Ministry of Foreign Affairs (Itamaraty), where entry into the diplomatic corps is governed by a competitive and standardized examination. Using institutional career records covering diplomats admitted between 1961 and 2010, we identify parent--child and sibling relationships from reported family information and trace diplomats' careers from entry through subsequent promotions and international postings. We examine whether diplomats with relatives already in the corps experience different career trajectories than otherwise comparable diplomats without such connections, focusing on promotion speed and the quality of diplomatic postings. The study speaks to a broader question about the capacity of formal meritocratic institutions to insulate bureaucratic careers from informal family influence. By examining kinship within a professional bureaucracy characterized by standardized recruitment and long-term career progression, the study provides evidence on the relationship between formal institutional rules and informal networks in shaping bureaucratic careers.
 </sub>
   
 </details>
