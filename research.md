@@ -71,7 +71,7 @@ The political and economic consequences of corruption are substantial. Corruptio
 </details>
 
 
-<a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Does the Message Matter? Framing, Benchmarking, and Citizen Responses to Corruption Information</a> (with [Raymond Duch](https://www.raymondduch.com/)).
+<a href="https://ftraposo.github.io/Corruption_Information_Design_Experiment_ver6.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">What Makes Corruption Information Compelling? Evidence from Adaptive Experiments</a> (with [Raymond Duch](https://www.raymondduch.com/)).
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
