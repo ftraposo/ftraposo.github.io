@@ -93,12 +93,12 @@ Governments have widely used audits to combat corruption, enhance accountability
 ## Work in progress
 ***
 
-Prosecutors and the Emergence of a Virtuous Anti-Corruption Cycle: Evidence from Chile, Ecuador and Peru (Single-authored).
+Prosecutors and the Emergence of a Virtuous Anti-Corruption Cycle: Evidence from Ecuador and Peru (Single-authored).
 
 <details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
   <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
 <sub>
-District attorneys’ offices in Latin America have increasingly established specialised anti-corruption units to prosecute corruption cases more effectively. However, there is limited evidence on whether these units actually improve the prosecution of corrupt actors. In particular, it remains unclear whether they enhance prosecutorial efficiency or lead to more severe convictions. Leveraging administrative data from district attorneys’ offices and trial records from Chile, Ecuador, and Peru, this study examines whether the creation of specialised anti-corruption units increases the supply of corruption cases brought forward, shortens the length of proceedings, and raises sentence severity. I employ a regression discontinuity in time design, exploiting the deterministic assignment of corruption cases to these units from a specific cut-off date, to estimate their causal impact on prosecutorial outcomes.
+District attorneys’ offices in Latin America have increasingly established specialised anti-corruption units to prosecute corruption cases more effectively. However, there is limited evidence on whether these units actually improve the prosecution of corrupt actors. In particular, it remains unclear whether they enhance prosecutorial efficiency or lead to more severe convictions. Leveraging administrative data from district attorneys’ offices and trial records from Ecuador, and Peru, this study examines whether the creation of specialised anti-corruption units increases the supply of corruption cases brought forward, shortens the length of proceedings, and raises sentence severity. I employ a regression discontinuity in time design, exploiting the deterministic assignment of corruption cases to these units from a specific cut-off date, to estimate their causal impact on prosecutorial outcomes.
 </sub> 
   
 </details>
