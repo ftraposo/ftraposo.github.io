@@ -22,7 +22,7 @@ Public support is crucial for shaping effective foreign aid policy and developme
 ## Under review 
 ***
 
-<a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)) **R&R - Comparative Political Studies**.
+<a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)) **Conditional Accepted - Comparative Political Studies**.
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
 </a>
