@@ -113,16 +113,6 @@ Patronage remains a widespread phenomenon that shapes the functioning of politic
   
 </details>
 
-The Transparency Dividend: A Staggered Synthetic Control Analysis of FOI Laws. 
-
-<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-Freedom of Information (FOI) laws have spread rapidly across the globe since the 1990s, yet whether they translate into meaningful reductions in political corruption remains contested. This paper estimates the causal effect of FOI legislation using a staggered augmented synthetic control design, exploiting cross-national variation in the timing of law enactment across 111 countries between 1960 and 2025. I find that FOI laws produce a modest but persistent reduction in political corruption: the average treatment effect grows from -0.012 at enactment to -0.035 by the eighth post-treatment year, equivalent to approximately 0.17 standard deviations. The monotonically increasing trajectory and strong pre-treatment balance support a causal interpretation. Results are robust to alternative outcome measures including the Transparency International Corruption Perceptions Index.
-</sub> 
-  
-</details>
-
 Connected and Protected? A Conjoint Experiment on Sanctioning Legitimacy among Local Bureaucrats (with <a href="https://sites.google.com/view/luissoto-tamayo/about" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Luis Soto Tamayo</a>).
 
 <details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
@@ -133,6 +123,25 @@ Government audits are widely used to deter bureaucratic rent-seeking, yet their 
   
 </details>
 
+The Transparency Dividend: A Staggered Synthetic Control Analysis of FOI Laws. 
+
+<details style="padding: 10px; margin-top: 5px; margin-bottom: 15px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+Freedom of Information (FOI) laws have spread rapidly across the globe since the 1990s, yet whether they translate into meaningful reductions in political corruption remains contested. This paper estimates the causal effect of FOI legislation using a staggered augmented synthetic control design, exploiting cross-national variation in the timing of law enactment across 111 countries between 1960 and 2025. I find that FOI laws produce a modest but persistent reduction in political corruption: the average treatment effect grows from -0.012 at enactment to -0.035 by the eighth post-treatment year, equivalent to approximately 0.17 standard deviations. The monotonically increasing trajectory and strong pre-treatment balance support a causal interpretation. Results are robust to alternative outcome measures including the Transparency International Corruption Perceptions Index.
+</sub> 
+  
+</details>
+
+Kin in the Corps: Family Ties and Career Trajectories in Brazil’s Diplomatic Service, 1961–2010 (with Gabriel Soyer and Luis Soto).
+
+<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
+  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
+<sub>
+This study examines whether family connections influence career trajectories within a formally meritocratic diplomatic bureaucracy. We study Brazil's Ministry of Foreign Affairs (Itamaraty), where entry into the diplomatic corps is governed by a competitive and standardized examination. Using institutional career records covering diplomats admitted between 1961 and 2010, we identify parent--child and sibling relationships from reported family information and trace diplomats' careers from entry through subsequent promotions and international postings. We examine whether diplomats with relatives already in the corps experience different career trajectories than otherwise comparable diplomats without such connections, focusing on promotion speed and the quality of diplomatic postings. The study speaks to a broader question about the capacity of formal meritocratic institutions to insulate bureaucratic careers from informal family influence. By examining kinship within a professional bureaucracy characterized by standardized recruitment and long-term career progression, the study provides evidence on the relationship between formal institutional rules and informal networks in shaping bureaucratic careers.
+</sub>
+  
+</details>
 
 The Power of Activation: Assessing the Effect of Imagery in Global Poverty Campaigns: Evidence from a Visual Conjoint (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Paolo Morini</a>). [<img src="https://img.shields.io/badge/EGAP_Registry-crimson" style="vertical-align: middle;">](https://osf.io/dg245) 
 
@@ -144,13 +153,3 @@ This project seeks to understand how image development organisations use in camp
   
 </details>
 
-
-Kin in the Corps: Family Ties and Career Trajectories in Brazil’s Diplomatic Service, 1961–2010 (with Gabriel Soyer and Luis Soto).
-
-<details style="padding: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <summary style="cursor: pointer; font-weight: bold; color: dark;">Abstract</summary>
-<sub>
-This study examines whether family connections influence career trajectories within a formally meritocratic diplomatic bureaucracy. We study Brazil's Ministry of Foreign Affairs (Itamaraty), where entry into the diplomatic corps is governed by a competitive and standardized examination. Using institutional career records covering diplomats admitted between 1961 and 2010, we identify parent--child and sibling relationships from reported family information and trace diplomats' careers from entry through subsequent promotions and international postings. We examine whether diplomats with relatives already in the corps experience different career trajectories than otherwise comparable diplomats without such connections, focusing on promotion speed and the quality of diplomatic postings. The study speaks to a broader question about the capacity of formal meritocratic institutions to insulate bureaucratic careers from informal family influence. By examining kinship within a professional bureaucracy characterized by standardized recruitment and long-term career progression, the study provides evidence on the relationship between formal institutional rules and informal networks in shaping bureaucratic careers.
-</sub>
-  
-</details>
