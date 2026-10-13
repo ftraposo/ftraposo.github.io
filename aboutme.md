@@ -18,7 +18,7 @@ My research focuses on public policy, bureaucratic politics, and the political e
 
 Feel free to contact me via email at: `f.torres-raposo@ucl.ac.uk`
 
-You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_Master.pdf" target="_blank">view my full CV here</a> for more details about my academic background and research.
+You can also <a href="https://ftraposo.github.io/CV_Felipe_Raposo_Master_New.pdf" target="_blank">view my full CV here</a> for more details about my academic background and research.
 
 <h3>Upcoming Presentations</h3>
 <ul>
