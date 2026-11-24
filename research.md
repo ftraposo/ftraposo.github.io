@@ -19,9 +19,6 @@ Public support is crucial for shaping effective foreign aid policy and developme
 </sub> 
 </details>
 
-## Under review 
-***
-
 <a href="https://ftraposo.github.io/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Government Audits of Municipal Corruption and Belief Updating: Experimental from a Field Experiment</a> (with [Raymond Duch](https://www.raymondduch.com/)) **Conditionally Accepted - Comparative Political Studies**.
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGTS1K" style="text-decoration: none; border: none;">
   <img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">
@@ -42,6 +39,9 @@ We implemented a field experiment that assesses whether citizens update corrupti
 </sub>
   
 </details>
+
+## Under review 
+***
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5672010" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Public Support for Foreign Aid: The Role of Development Project Characteristics.</a> (with <a href="https://www.smu.edu/aboutsmu/administration/vp-execaff" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Jennifer Hudson</a>, <a href="https://www.birmingham.ac.uk/schools/government-society/departments/international-development/staff/profiles/hudson-david.aspx" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">David Hudson</a>, <a href="https://www.soominoh.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Soomin Oh</a>, <a href="https://www.kcl.ac.uk/people/paolo-morini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">Paolo Morini</a>).
 [<img src="https://img.shields.io/badge/Data-navy" alt="Data badge" style="vertical-align: middle;">](https://dataverse.harvard.edu/dataverse/devengagement) 
